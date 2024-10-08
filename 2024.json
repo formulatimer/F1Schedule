@@ -6,6 +6,7 @@
         "roundNumber": 0,
         "start": "2024-02-21T10:00:00Z",
         "end": "2024-02-23T11:00:00Z",
+        "gmt_offset": "+03:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -35,6 +36,7 @@
         "roundNumber": 1,
         "start": "2024-02-29T14:30:00Z",
         "end": "2024-03-02T19:00:00Z",
+        "gmt_offset": "+03:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -76,6 +78,7 @@
         "roundNumber": 2,
         "start": "2024-03-07T16:30:00Z",
         "end": "2024-03-09T21:00:00Z",
+        "gmt_offset": "+03:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -117,6 +120,7 @@
         "roundNumber": 3,
         "start": "2024-03-22T12:30:00Z",
         "end": "2024-03-24T16:00:00Z",
+        "gmt_offset": "+11:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -158,6 +162,7 @@
         "roundNumber": 4,
         "start": "2024-04-05T11:30:00Z",
         "end": "2024-04-07T15:00:00Z",
+        "gmt_offset": "+09:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -199,6 +204,7 @@
         "roundNumber": 5,
         "start": "2024-04-19T11:30:00Z",
         "end": "2024-04-21T16:00:00Z",
+        "gmt_offset": "+08:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -240,6 +246,7 @@
         "roundNumber": 6,
         "start": "2024-05-03T12:30:00Z",
         "end": "2024-05-05T17:00:00Z",
+        "gmt_offset": "-04:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -281,6 +288,7 @@
         "roundNumber": 7,
         "start": "2024-05-17T13:30:00Z",
         "end": "2024-05-19T16:00:00Z",
+        "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -322,6 +330,7 @@
         "roundNumber": 8,
         "start": "2024-05-24T13:30:00Z",
         "end": "2024-05-26T16:00:00Z",
+        "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -363,6 +372,7 @@
         "roundNumber": 9,
         "start": "2024-06-07T13:30:00Z",
         "end": "2024-06-09T15:00:00Z",
+        "gmt_offset": "-04:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -404,6 +414,7 @@
         "roundNumber": 10,
         "start": "2024-06-21T13:30:00Z",
         "end": "2024-06-23T16:00:00Z",
+        "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -445,6 +456,7 @@
         "roundNumber": 11,
         "start": "2024-06-28T12:30:00Z",
         "end": "2024-06-30T16:00:00Z",
+        "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -486,6 +498,7 @@
         "roundNumber": 12,
         "start": "2024-07-05T12:30:00Z",
         "end": "2024-07-07T16:00:00Z",
+        "gmt_offset": "+01:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -527,6 +540,7 @@
         "roundNumber": 13,
         "start": "2024-07-19T13:30:00Z",
         "end": "2024-07-21T16:00:00Z",
+        "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -568,6 +582,7 @@
         "roundNumber": 14,
         "start": "2024-07-26T13:30:00Z",
         "end": "2024-07-28T16:00:00Z",
+        "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -609,6 +624,7 @@
         "roundNumber": 15,
         "start": "2024-08-23T12:30:00Z",
         "end": "2024-08-25T16:00:00Z",
+        "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -650,6 +666,7 @@
         "roundNumber": 16,
         "start": "2024-08-30T13:30:00Z",
         "end": "2024-09-01T16:00:00Z",
+        "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -691,6 +708,7 @@
         "roundNumber": 17,
         "start": "2024-09-13T13:30:00Z",
         "end": "2024-09-15T16:00:00Z",
+        "gmt_offset": "+04:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -732,6 +750,7 @@
         "roundNumber": 18,
         "start": "2024-09-20T17:30:00Z",
         "end": "2024-09-22T21:00:00Z",
+        "gmt_offset": "+08:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -773,6 +792,7 @@
         "roundNumber": 19,
         "start": "2024-10-18T12:30:00Z",
         "end": "2024-10-20T15:00:00Z",
+        "gmt_offset": "-05:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -814,6 +834,7 @@
         "roundNumber": 20,
         "start": "2024-10-25T12:30:00Z",
         "end": "2024-10-27T15:00:00Z",
+        "gmt_offset": "-06:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -855,6 +876,7 @@
         "roundNumber": 21,
         "start": "2024-11-01T11:30:00Z",
         "end": "2024-11-03T15:00:00Z",
+        "gmt_offset": "-03:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -896,6 +918,7 @@
         "roundNumber": 22,
         "start": "2024-11-21T18:30:00Z",
         "end": "2024-11-23T23:00:00Z",
+        "gmt_offset": "-08:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -937,6 +960,7 @@
         "roundNumber": 23,
         "start": "2024-11-29T16:30:00Z",
         "end": "2024-12-01T20:00:00Z",
+        "gmt_offset": "+03:00",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -978,6 +1002,7 @@
         "roundNumber": 24,
         "start": "2024-12-06T13:30:00Z",
         "end": "2024-12-08T18:00:00Z",
+        "gmt_offset": "+04:00",
         "sessions": [
             {
                 "sessionNumber": "1",
