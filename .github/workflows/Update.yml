@@ -2,7 +2,7 @@ name: Transform JSON
 
 on:
   schedule:
-    - cron: '*/30 * * * 5-7'  # Cada 30 minutos de viernes a domingo
+    - cron: '*/30 * * * *'  # Cada 30 minutos de viernes a domingo
   push:
     branches:
       - main
