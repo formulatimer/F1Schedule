@@ -1,0 +1,764 @@
+[
+    {
+        "name": "Pre-Season Test 1",
+        "countryName": "Spain",
+        "countryKey": null,
+        "roundNumber": 0,
+        "start": "2020-02-19T09:00:00Z",
+        "end": "2020-02-21T10:00:00Z",
+        "gmt_offset": "+01:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-02-19T09:00:00Z",
+                "end": "2020-02-19T10:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-02-20T09:00:00Z",
+                "end": "2020-02-20T10:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-02-21T09:00:00Z",
+                "end": "2020-02-21T10:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Pre-Season Test 2",
+        "countryName": "Spain",
+        "countryKey": null,
+        "roundNumber": 0,
+        "start": "2020-02-26T09:00:00Z",
+        "end": "2020-02-28T10:00:00Z",
+        "gmt_offset": "+01:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-02-26T09:00:00Z",
+                "end": "2020-02-26T10:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-02-27T09:00:00Z",
+                "end": "2020-02-27T10:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-02-28T09:00:00Z",
+                "end": "2020-02-28T10:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Austrian Grand Prix",
+        "countryName": "Austria",
+        "countryKey": null,
+        "roundNumber": 1,
+        "start": "2020-07-03T11:00:00Z",
+        "end": "2020-07-05T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-07-03T11:00:00Z",
+                "end": "2020-07-03T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-07-03T15:00:00Z",
+                "end": "2020-07-03T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-07-04T12:00:00Z",
+                "end": "2020-07-04T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-07-04T15:00:00Z",
+                "end": "2020-07-04T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-07-05T15:10:00Z",
+                "end": "2020-07-05T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Styrian Grand Prix",
+        "countryName": "Austria",
+        "countryKey": null,
+        "roundNumber": 2,
+        "start": "2020-07-10T11:00:00Z",
+        "end": "2020-07-12T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-07-10T11:00:00Z",
+                "end": "2020-07-10T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-07-10T15:00:00Z",
+                "end": "2020-07-10T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-07-11T12:00:00Z",
+                "end": "2020-07-11T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-07-11T15:00:00Z",
+                "end": "2020-07-11T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-07-12T15:10:00Z",
+                "end": "2020-07-12T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Hungarian Grand Prix",
+        "countryName": "Hungary",
+        "countryKey": null,
+        "roundNumber": 3,
+        "start": "2020-07-17T11:00:00Z",
+        "end": "2020-07-19T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-07-17T11:00:00Z",
+                "end": "2020-07-17T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-07-17T15:00:00Z",
+                "end": "2020-07-17T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-07-18T12:00:00Z",
+                "end": "2020-07-18T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-07-18T15:00:00Z",
+                "end": "2020-07-18T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-07-19T15:10:00Z",
+                "end": "2020-07-19T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "British Grand Prix",
+        "countryName": "Great Britain",
+        "countryKey": null,
+        "roundNumber": 4,
+        "start": "2020-07-31T11:00:00Z",
+        "end": "2020-08-02T15:10:00Z",
+        "gmt_offset": "+01:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-07-31T11:00:00Z",
+                "end": "2020-07-31T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-07-31T15:00:00Z",
+                "end": "2020-07-31T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-08-01T11:00:00Z",
+                "end": "2020-08-01T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-08-01T14:00:00Z",
+                "end": "2020-08-01T15:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-08-02T14:10:00Z",
+                "end": "2020-08-02T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "70th Anniversary Grand Prix",
+        "countryName": "Great Britain",
+        "countryKey": null,
+        "roundNumber": 5,
+        "start": "2020-08-07T11:00:00Z",
+        "end": "2020-08-09T15:10:00Z",
+        "gmt_offset": "+01:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-08-07T11:00:00Z",
+                "end": "2020-08-07T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-08-07T15:00:00Z",
+                "end": "2020-08-07T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-08-08T11:00:00Z",
+                "end": "2020-08-08T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-08-08T14:00:00Z",
+                "end": "2020-08-08T15:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-08-09T14:10:00Z",
+                "end": "2020-08-09T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Spanish Grand Prix",
+        "countryName": "Spain",
+        "countryKey": null,
+        "roundNumber": 6,
+        "start": "2020-08-14T11:00:00Z",
+        "end": "2020-08-16T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-08-14T11:00:00Z",
+                "end": "2020-08-14T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-08-14T15:00:00Z",
+                "end": "2020-08-14T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-08-15T12:00:00Z",
+                "end": "2020-08-15T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-08-15T15:00:00Z",
+                "end": "2020-08-15T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-08-16T15:10:00Z",
+                "end": "2020-08-16T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Belgian Grand Prix",
+        "countryName": "Belgium",
+        "countryKey": null,
+        "roundNumber": 7,
+        "start": "2020-08-28T11:00:00Z",
+        "end": "2020-08-30T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-08-28T11:00:00Z",
+                "end": "2020-08-28T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-08-28T15:00:00Z",
+                "end": "2020-08-28T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-08-29T12:00:00Z",
+                "end": "2020-08-29T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-08-29T15:00:00Z",
+                "end": "2020-08-29T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-08-30T15:10:00Z",
+                "end": "2020-08-30T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Italian Grand Prix",
+        "countryName": "Italy",
+        "countryKey": null,
+        "roundNumber": 8,
+        "start": "2020-09-04T11:00:00Z",
+        "end": "2020-09-06T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-09-04T11:00:00Z",
+                "end": "2020-09-04T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-09-04T15:00:00Z",
+                "end": "2020-09-04T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-09-05T12:00:00Z",
+                "end": "2020-09-05T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-09-05T15:00:00Z",
+                "end": "2020-09-05T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-09-06T15:10:00Z",
+                "end": "2020-09-06T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Tuscan Grand Prix",
+        "countryName": "Italy",
+        "countryKey": null,
+        "roundNumber": 9,
+        "start": "2020-09-11T11:00:00Z",
+        "end": "2020-09-13T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-09-11T11:00:00Z",
+                "end": "2020-09-11T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-09-11T15:00:00Z",
+                "end": "2020-09-11T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-09-12T12:00:00Z",
+                "end": "2020-09-12T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-09-12T15:00:00Z",
+                "end": "2020-09-12T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-09-13T15:10:00Z",
+                "end": "2020-09-13T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Russian Grand Prix",
+        "countryName": "Russia",
+        "countryKey": null,
+        "roundNumber": 10,
+        "start": "2020-09-25T11:00:00Z",
+        "end": "2020-09-27T15:10:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-09-25T11:00:00Z",
+                "end": "2020-09-25T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-09-25T15:00:00Z",
+                "end": "2020-09-25T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-09-26T12:00:00Z",
+                "end": "2020-09-26T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-09-26T15:00:00Z",
+                "end": "2020-09-26T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-09-27T14:10:00Z",
+                "end": "2020-09-27T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Eifel Grand Prix",
+        "countryName": "Germany",
+        "countryKey": null,
+        "roundNumber": 11,
+        "start": "2020-10-09T11:00:00Z",
+        "end": "2020-10-11T15:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-10-09T11:00:00Z",
+                "end": "2020-10-09T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-10-09T15:00:00Z",
+                "end": "2020-10-09T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-10-10T12:00:00Z",
+                "end": "2020-10-10T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-10-10T15:00:00Z",
+                "end": "2020-10-10T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-10-11T14:10:00Z",
+                "end": "2020-10-11T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Portuguese Grand Prix",
+        "countryName": "Portugal",
+        "countryKey": null,
+        "roundNumber": 12,
+        "start": "2020-10-23T11:00:00Z",
+        "end": "2020-10-25T14:10:00Z",
+        "gmt_offset": "+00:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-10-23T11:00:00Z",
+                "end": "2020-10-23T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-10-23T15:00:00Z",
+                "end": "2020-10-23T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-10-24T11:00:00Z",
+                "end": "2020-10-24T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-10-24T14:00:00Z",
+                "end": "2020-10-24T15:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-10-25T13:10:00Z",
+                "end": "2020-10-25T14:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Emilia Romagna Grand Prix",
+        "countryName": "Italy",
+        "countryKey": null,
+        "roundNumber": 13,
+        "start": "2020-10-31T10:00:00Z",
+        "end": "2020-11-01T14:10:00Z",
+        "gmt_offset": "+01:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-10-31T10:00:00Z",
+                "end": "2020-10-31T11:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-10-31T14:00:00Z",
+                "end": "2020-10-31T15:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-11-01T13:10:00Z",
+                "end": "2020-11-01T14:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Turkish Grand Prix",
+        "countryName": "Turkey",
+        "countryKey": null,
+        "roundNumber": 14,
+        "start": "2020-11-13T11:00:00Z",
+        "end": "2020-11-15T14:10:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-11-13T11:00:00Z",
+                "end": "2020-11-13T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-11-13T15:00:00Z",
+                "end": "2020-11-13T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-11-14T12:00:00Z",
+                "end": "2020-11-14T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-11-14T15:00:00Z",
+                "end": "2020-11-14T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-11-15T13:10:00Z",
+                "end": "2020-11-15T14:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Bahrain Grand Prix",
+        "countryName": "Bahrain",
+        "countryKey": null,
+        "roundNumber": 15,
+        "start": "2020-11-27T14:00:00Z",
+        "end": "2020-11-29T18:10:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-11-27T14:00:00Z",
+                "end": "2020-11-27T15:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-11-27T18:00:00Z",
+                "end": "2020-11-27T19:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-11-28T14:00:00Z",
+                "end": "2020-11-28T15:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-11-28T17:00:00Z",
+                "end": "2020-11-28T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-11-29T17:10:00Z",
+                "end": "2020-11-29T18:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Sakhir Grand Prix",
+        "countryName": "Bahrain",
+        "countryKey": null,
+        "roundNumber": 16,
+        "start": "2020-12-04T16:30:00Z",
+        "end": "2020-12-06T21:10:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-12-04T16:30:00Z",
+                "end": "2020-12-04T17:30:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-12-04T20:30:00Z",
+                "end": "2020-12-04T21:30:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-12-05T17:00:00Z",
+                "end": "2020-12-05T18:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-12-05T20:00:00Z",
+                "end": "2020-12-05T21:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-12-06T20:10:00Z",
+                "end": "2020-12-06T21:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Abu Dhabi Grand Prix",
+        "countryName": "Abu Dhabi",
+        "countryKey": null,
+        "roundNumber": 17,
+        "start": "2020-12-11T13:00:00Z",
+        "end": "2020-12-13T18:10:00Z",
+        "gmt_offset": "+04:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2020-12-11T13:00:00Z",
+                "end": "2020-12-11T14:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2020-12-11T17:00:00Z",
+                "end": "2020-12-11T18:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2020-12-12T14:00:00Z",
+                "end": "2020-12-12T15:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2020-12-12T17:00:00Z",
+                "end": "2020-12-12T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2020-12-13T17:10:00Z",
+                "end": "2020-12-13T18:10:00Z"
+            }
+        ],
+        "over": false
+    }
+]
