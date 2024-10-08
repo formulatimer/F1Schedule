@@ -45,6 +45,6 @@ def transform_json(input_url, output_file):
     with open(output_file, 'w') as f:
         json.dump(transformed_data, f, indent=4)
 
-input_url = 'https://raw.githubusercontent.com/theOehrly/f1schedule/refs/heads/master/schedule_2024.json'
-output_file = '2024.json'
+input_url = 'https://raw.githubusercontent.com/theOehrly/f1schedule/refs/heads/master/schedule_2018.json'
+output_file = '2018.json'
 transform_json(input_url, output_file)
