@@ -31,5 +31,6 @@ jobs:
       
           git config --global user.name 'formulatimer'
           git config --global user.email 'manpean@outlook.es'
+          git add .
           git commit -am "Update schedule"
           git push
