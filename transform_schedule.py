@@ -1,6 +1,8 @@
 import json
 import requests
 from datetime import datetime, timedelta
+import os
+import git
 
 def transform_json(input_url, output_file):
     response = requests.get(input_url)
