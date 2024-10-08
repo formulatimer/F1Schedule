@@ -1,0 +1,884 @@
+[
+    {
+        "name": "Australian Grand Prix",
+        "countryName": "Australia",
+        "countryKey": null,
+        "roundNumber": 1,
+        "start": "2018-03-23T12:00:00Z",
+        "end": "2018-03-25T17:10:00Z",
+        "gmt_offset": "+11:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-03-23T12:00:00Z",
+                "end": "2018-03-23T13:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-03-23T16:00:00Z",
+                "end": "2018-03-23T17:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-03-24T14:00:00Z",
+                "end": "2018-03-24T15:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-03-24T17:00:00Z",
+                "end": "2018-03-24T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-03-25T16:10:00Z",
+                "end": "2018-03-25T17:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Bahrain Grand Prix",
+        "countryName": "Bahrain",
+        "countryKey": null,
+        "roundNumber": 2,
+        "start": "2018-04-06T14:00:00Z",
+        "end": "2018-04-08T19:10:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-04-06T14:00:00Z",
+                "end": "2018-04-06T15:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-04-06T18:00:00Z",
+                "end": "2018-04-06T19:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-04-07T15:00:00Z",
+                "end": "2018-04-07T16:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-04-07T18:00:00Z",
+                "end": "2018-04-07T19:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-04-08T18:10:00Z",
+                "end": "2018-04-08T19:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Chinese Grand Prix",
+        "countryName": "China",
+        "countryKey": null,
+        "roundNumber": 3,
+        "start": "2018-04-13T10:00:00Z",
+        "end": "2018-04-15T15:10:00Z",
+        "gmt_offset": "+08:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-04-13T10:00:00Z",
+                "end": "2018-04-13T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-04-13T14:00:00Z",
+                "end": "2018-04-13T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-04-14T11:00:00Z",
+                "end": "2018-04-14T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-04-14T14:00:00Z",
+                "end": "2018-04-14T15:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-04-15T14:10:00Z",
+                "end": "2018-04-15T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Azerbaijan Grand Prix",
+        "countryName": "Azerbaijan",
+        "countryKey": null,
+        "roundNumber": 4,
+        "start": "2018-04-27T13:00:00Z",
+        "end": "2018-04-29T17:10:00Z",
+        "gmt_offset": "+04:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-04-27T13:00:00Z",
+                "end": "2018-04-27T14:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-04-27T17:00:00Z",
+                "end": "2018-04-27T18:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-04-28T14:00:00Z",
+                "end": "2018-04-28T15:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-04-28T17:00:00Z",
+                "end": "2018-04-28T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-04-29T16:10:00Z",
+                "end": "2018-04-29T17:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Spanish Grand Prix",
+        "countryName": "Spain",
+        "countryKey": null,
+        "roundNumber": 5,
+        "start": "2018-05-11T11:00:00Z",
+        "end": "2018-05-13T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-05-11T11:00:00Z",
+                "end": "2018-05-11T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-05-11T15:00:00Z",
+                "end": "2018-05-11T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-05-12T12:00:00Z",
+                "end": "2018-05-12T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-05-12T15:00:00Z",
+                "end": "2018-05-12T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-05-13T15:10:00Z",
+                "end": "2018-05-13T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Monaco Grand Prix",
+        "countryName": "Monaco",
+        "countryKey": null,
+        "roundNumber": 6,
+        "start": "2018-05-24T11:00:00Z",
+        "end": "2018-05-27T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-05-24T11:00:00Z",
+                "end": "2018-05-24T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-05-24T15:00:00Z",
+                "end": "2018-05-24T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-05-26T12:00:00Z",
+                "end": "2018-05-26T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-05-26T15:00:00Z",
+                "end": "2018-05-26T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-05-27T15:10:00Z",
+                "end": "2018-05-27T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Canadian Grand Prix",
+        "countryName": "Canada",
+        "countryKey": null,
+        "roundNumber": 7,
+        "start": "2018-06-08T10:00:00Z",
+        "end": "2018-06-10T15:10:00Z",
+        "gmt_offset": "-04:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-06-08T10:00:00Z",
+                "end": "2018-06-08T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-06-08T14:00:00Z",
+                "end": "2018-06-08T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-06-09T11:00:00Z",
+                "end": "2018-06-09T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-06-09T14:00:00Z",
+                "end": "2018-06-09T15:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-06-10T14:10:00Z",
+                "end": "2018-06-10T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "French Grand Prix",
+        "countryName": "France",
+        "countryKey": null,
+        "roundNumber": 8,
+        "start": "2018-06-22T12:00:00Z",
+        "end": "2018-06-24T17:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-06-22T12:00:00Z",
+                "end": "2018-06-22T13:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-06-22T16:00:00Z",
+                "end": "2018-06-22T17:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-06-23T13:00:00Z",
+                "end": "2018-06-23T14:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-06-23T16:00:00Z",
+                "end": "2018-06-23T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-06-24T16:10:00Z",
+                "end": "2018-06-24T17:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Austrian Grand Prix",
+        "countryName": "Austria",
+        "countryKey": null,
+        "roundNumber": 9,
+        "start": "2018-06-29T11:00:00Z",
+        "end": "2018-07-01T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-06-29T11:00:00Z",
+                "end": "2018-06-29T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-06-29T15:00:00Z",
+                "end": "2018-06-29T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-06-30T12:00:00Z",
+                "end": "2018-06-30T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-06-30T15:00:00Z",
+                "end": "2018-06-30T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-07-01T15:10:00Z",
+                "end": "2018-07-01T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "British Grand Prix",
+        "countryName": "Great Britain",
+        "countryKey": null,
+        "roundNumber": 10,
+        "start": "2018-07-06T10:00:00Z",
+        "end": "2018-07-08T15:10:00Z",
+        "gmt_offset": "+01:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-07-06T10:00:00Z",
+                "end": "2018-07-06T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-07-06T14:00:00Z",
+                "end": "2018-07-06T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-07-07T11:00:00Z",
+                "end": "2018-07-07T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-07-07T14:00:00Z",
+                "end": "2018-07-07T15:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-07-08T14:10:00Z",
+                "end": "2018-07-08T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "German Grand Prix",
+        "countryName": "Germany",
+        "countryKey": null,
+        "roundNumber": 11,
+        "start": "2018-07-20T11:00:00Z",
+        "end": "2018-07-22T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-07-20T11:00:00Z",
+                "end": "2018-07-20T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-07-20T15:00:00Z",
+                "end": "2018-07-20T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-07-21T12:00:00Z",
+                "end": "2018-07-21T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-07-21T15:00:00Z",
+                "end": "2018-07-21T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-07-22T15:10:00Z",
+                "end": "2018-07-22T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Hungarian Grand Prix",
+        "countryName": "Hungary",
+        "countryKey": null,
+        "roundNumber": 12,
+        "start": "2018-07-27T11:00:00Z",
+        "end": "2018-07-29T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-07-27T11:00:00Z",
+                "end": "2018-07-27T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-07-27T15:00:00Z",
+                "end": "2018-07-27T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-07-28T12:00:00Z",
+                "end": "2018-07-28T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-07-28T15:00:00Z",
+                "end": "2018-07-28T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-07-29T15:10:00Z",
+                "end": "2018-07-29T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Belgian Grand Prix",
+        "countryName": "Belgium",
+        "countryKey": null,
+        "roundNumber": 13,
+        "start": "2018-08-24T11:00:00Z",
+        "end": "2018-08-26T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-08-24T11:00:00Z",
+                "end": "2018-08-24T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-08-24T15:00:00Z",
+                "end": "2018-08-24T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-08-25T12:00:00Z",
+                "end": "2018-08-25T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-08-25T15:00:00Z",
+                "end": "2018-08-25T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-08-26T15:10:00Z",
+                "end": "2018-08-26T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Italian Grand Prix",
+        "countryName": "Italy",
+        "countryKey": null,
+        "roundNumber": 14,
+        "start": "2018-08-31T11:00:00Z",
+        "end": "2018-09-02T16:10:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-08-31T11:00:00Z",
+                "end": "2018-08-31T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-08-31T15:00:00Z",
+                "end": "2018-08-31T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-09-01T12:00:00Z",
+                "end": "2018-09-01T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-09-01T15:00:00Z",
+                "end": "2018-09-01T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-09-02T15:10:00Z",
+                "end": "2018-09-02T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Singapore Grand Prix",
+        "countryName": "Singapore",
+        "countryKey": null,
+        "roundNumber": 15,
+        "start": "2018-09-14T16:30:00Z",
+        "end": "2018-09-16T21:10:00Z",
+        "gmt_offset": "+08:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-09-14T16:30:00Z",
+                "end": "2018-09-14T17:30:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-09-14T20:30:00Z",
+                "end": "2018-09-14T21:30:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-09-15T18:00:00Z",
+                "end": "2018-09-15T19:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-09-15T21:00:00Z",
+                "end": "2018-09-15T22:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-09-16T20:10:00Z",
+                "end": "2018-09-16T21:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Russian Grand Prix",
+        "countryName": "Russia",
+        "countryKey": null,
+        "roundNumber": 16,
+        "start": "2018-09-28T11:00:00Z",
+        "end": "2018-09-30T15:10:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-09-28T11:00:00Z",
+                "end": "2018-09-28T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-09-28T15:00:00Z",
+                "end": "2018-09-28T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-09-29T12:00:00Z",
+                "end": "2018-09-29T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-09-29T15:00:00Z",
+                "end": "2018-09-29T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-09-30T14:10:00Z",
+                "end": "2018-09-30T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Japanese Grand Prix",
+        "countryName": "Japan",
+        "countryKey": null,
+        "roundNumber": 17,
+        "start": "2018-10-05T10:00:00Z",
+        "end": "2018-10-07T15:10:00Z",
+        "gmt_offset": "+09:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-10-05T10:00:00Z",
+                "end": "2018-10-05T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-10-05T14:00:00Z",
+                "end": "2018-10-05T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-10-06T12:00:00Z",
+                "end": "2018-10-06T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-10-06T15:00:00Z",
+                "end": "2018-10-06T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-10-07T14:10:00Z",
+                "end": "2018-10-07T15:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "United States Grand Prix",
+        "countryName": "United States",
+        "countryKey": null,
+        "roundNumber": 18,
+        "start": "2018-10-19T10:00:00Z",
+        "end": "2018-10-21T14:10:00Z",
+        "gmt_offset": "-05:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-10-19T10:00:00Z",
+                "end": "2018-10-19T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-10-19T14:00:00Z",
+                "end": "2018-10-19T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-10-20T13:00:00Z",
+                "end": "2018-10-20T14:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-10-20T16:00:00Z",
+                "end": "2018-10-20T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-10-21T13:10:00Z",
+                "end": "2018-10-21T14:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Mexican Grand Prix",
+        "countryName": "Mexico",
+        "countryKey": null,
+        "roundNumber": 19,
+        "start": "2018-10-26T10:00:00Z",
+        "end": "2018-10-28T14:10:00Z",
+        "gmt_offset": "-06:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-10-26T10:00:00Z",
+                "end": "2018-10-26T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-10-26T14:00:00Z",
+                "end": "2018-10-26T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-10-27T10:00:00Z",
+                "end": "2018-10-27T11:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-10-27T13:00:00Z",
+                "end": "2018-10-27T14:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-10-28T13:10:00Z",
+                "end": "2018-10-28T14:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Brazilian Grand Prix",
+        "countryName": "Brazil",
+        "countryKey": null,
+        "roundNumber": 20,
+        "start": "2018-11-09T11:00:00Z",
+        "end": "2018-11-11T16:10:00Z",
+        "gmt_offset": "-02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-11-09T11:00:00Z",
+                "end": "2018-11-09T12:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-11-09T15:00:00Z",
+                "end": "2018-11-09T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-11-10T12:00:00Z",
+                "end": "2018-11-10T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-11-10T15:00:00Z",
+                "end": "2018-11-10T16:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-11-11T15:10:00Z",
+                "end": "2018-11-11T16:10:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Abu Dhabi Grand Prix",
+        "countryName": "United Arab Emirates",
+        "countryKey": null,
+        "roundNumber": 21,
+        "start": "2018-11-23T13:00:00Z",
+        "end": "2018-11-25T18:10:00Z",
+        "gmt_offset": "+04:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2018-11-23T13:00:00Z",
+                "end": "2018-11-23T14:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2018-11-23T17:00:00Z",
+                "end": "2018-11-23T18:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2018-11-24T14:00:00Z",
+                "end": "2018-11-24T15:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2018-11-24T17:00:00Z",
+                "end": "2018-11-24T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2018-11-25T17:10:00Z",
+                "end": "2018-11-25T18:10:00Z"
+            }
+        ],
+        "over": false
+    }
+]
