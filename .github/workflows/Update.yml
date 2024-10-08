@@ -15,8 +15,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Create report file
-        run: date +%s > report.txt
       - name: Install dependencies
         run: |
 
