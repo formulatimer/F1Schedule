@@ -26,4 +26,4 @@ jobs:
           # pip install -r requirements.txt
 
       - name: Run script
-        run: transform_schedule.py
+        run: python transform_schedule.py
