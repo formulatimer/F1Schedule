@@ -13,7 +13,7 @@ def transform_json(input_url, output_file):
     for i in range(len(data["round_number"])):
         event = {
             "name": data["event_name"][str(i)],
-            "countryName": data["country"][str(i)],
+            "countryName": data["country"][str(i)].replace(" ", ""),
             "countryKey": None,
             "roundNumber": data["round_number"][str(i)],
             "start": None,
