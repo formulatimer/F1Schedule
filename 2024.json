@@ -73,7 +73,7 @@
     },
     {
         "name": "Saudi Arabian Grand Prix",
-        "countryName": "Saudi Arabia",
+        "countryName": "SaudiArabia",
         "countryKey": null,
         "roundNumber": 2,
         "start": "2024-03-07T16:30:00Z",
@@ -241,7 +241,7 @@
     },
     {
         "name": "Miami Grand Prix",
-        "countryName": "United States",
+        "countryName": "UnitedStates",
         "countryKey": null,
         "roundNumber": 6,
         "start": "2024-05-03T12:30:00Z",
@@ -493,7 +493,7 @@
     },
     {
         "name": "British Grand Prix",
-        "countryName": "United Kingdom",
+        "countryName": "UnitedKingdom",
         "countryKey": null,
         "roundNumber": 12,
         "start": "2024-07-05T12:30:00Z",
@@ -787,7 +787,7 @@
     },
     {
         "name": "United States Grand Prix",
-        "countryName": "United States",
+        "countryName": "UnitedStates",
         "countryKey": null,
         "roundNumber": 19,
         "start": "2024-10-18T12:30:00Z",
@@ -913,7 +913,7 @@
     },
     {
         "name": "Las Vegas Grand Prix",
-        "countryName": "United States",
+        "countryName": "UnitedStates",
         "countryKey": null,
         "roundNumber": 22,
         "start": "2024-11-21T18:30:00Z",
@@ -997,7 +997,7 @@
     },
     {
         "name": "Abu Dhabi Grand Prix",
-        "countryName": "United Arab Emirates",
+        "countryName": "UnitedArabEmirates",
         "countryKey": null,
         "roundNumber": 24,
         "start": "2024-12-06T13:30:00Z",
