@@ -22,10 +22,16 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Check Python version and path
+        run: |
+          which python
+          python --version
+
+
       - name: Install dependencies
         run: |
           python -m venv .venv
-          source .venv/bin/activate
+          . .venv/bin/activate
           python -m pip install --upgrade pip
           pip install requests gitpython
 
