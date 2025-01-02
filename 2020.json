@@ -187,7 +187,7 @@
     },
     {
         "name": "British Grand Prix",
-        "countryName": "Great Britain",
+        "countryName": "GreatBritain",
         "countryKey": null,
         "roundNumber": 4,
         "start": "2020-07-31T11:00:00Z",
@@ -229,7 +229,7 @@
     },
     {
         "name": "70th Anniversary Grand Prix",
-        "countryName": "Great Britain",
+        "countryName": "GreatBritain",
         "countryKey": null,
         "roundNumber": 5,
         "start": "2020-08-07T11:00:00Z",
@@ -721,7 +721,7 @@
     },
     {
         "name": "Abu Dhabi Grand Prix",
-        "countryName": "Abu Dhabi",
+        "countryName": "AbuDhabi",
         "countryKey": null,
         "roundNumber": 17,
         "start": "2020-12-11T13:00:00Z",
