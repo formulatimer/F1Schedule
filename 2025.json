@@ -1,0 +1,1040 @@
+[
+    {
+        "name": "Pre-Season Testing",
+        "countryName": "Bahrain",
+        "countryKey": null,
+        "roundNumber": 0,
+        "start": "2025-02-26T10:00:00Z",
+        "end": "2025-02-28T11:00:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-02-26T10:00:00Z",
+                "end": "2025-02-26T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-02-27T10:00:00Z",
+                "end": "2025-02-27T11:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-02-28T10:00:00Z",
+                "end": "2025-02-28T11:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Australian Grand Prix",
+        "countryName": "Australia",
+        "countryKey": null,
+        "roundNumber": 1,
+        "start": "2025-03-14T10:00:00Z",
+        "end": "2025-03-16T16:00:00Z",
+        "gmt_offset": "+11:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-03-14T10:00:00Z",
+                "end": "2025-03-14T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-03-14T15:00:00Z",
+                "end": "2025-03-14T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-03-15T11:00:00Z",
+                "end": "2025-03-15T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-03-15T16:00:00Z",
+                "end": "2025-03-15T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-03-16T15:00:00Z",
+                "end": "2025-03-16T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Chinese Grand Prix",
+        "countryName": "China",
+        "countryKey": null,
+        "roundNumber": 2,
+        "start": "2025-03-21T10:00:00Z",
+        "end": "2025-03-23T15:00:00Z",
+        "gmt_offset": "+08:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-03-21T10:00:00Z",
+                "end": "2025-03-21T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Sprint Qualifying",
+                "start": "2025-03-21T14:00:00Z",
+                "end": "2025-03-21T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Sprint",
+                "start": "2025-03-22T12:00:00Z",
+                "end": "2025-03-22T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-03-22T17:00:00Z",
+                "end": "2025-03-22T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-03-23T14:00:00Z",
+                "end": "2025-03-23T15:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Japanese Grand Prix",
+        "countryName": "Japan",
+        "countryKey": null,
+        "roundNumber": 3,
+        "start": "2025-04-04T10:00:00Z",
+        "end": "2025-04-06T16:00:00Z",
+        "gmt_offset": "+09:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-04-04T10:00:00Z",
+                "end": "2025-04-04T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-04-04T15:00:00Z",
+                "end": "2025-04-04T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-04-05T11:00:00Z",
+                "end": "2025-04-05T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-04-05T16:00:00Z",
+                "end": "2025-04-05T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-04-06T15:00:00Z",
+                "end": "2025-04-06T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Bahrain Grand Prix",
+        "countryName": "Bahrain",
+        "countryKey": null,
+        "roundNumber": 4,
+        "start": "2025-04-11T10:00:00Z",
+        "end": "2025-04-13T16:00:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-04-11T10:00:00Z",
+                "end": "2025-04-11T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-04-11T15:00:00Z",
+                "end": "2025-04-11T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-04-12T11:00:00Z",
+                "end": "2025-04-12T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-04-12T16:00:00Z",
+                "end": "2025-04-12T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-04-13T15:00:00Z",
+                "end": "2025-04-13T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Saudi Arabian Grand Prix",
+        "countryName": "SaudiArabia",
+        "countryKey": null,
+        "roundNumber": 5,
+        "start": "2025-04-18T10:00:00Z",
+        "end": "2025-04-20T16:00:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-04-18T10:00:00Z",
+                "end": "2025-04-18T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-04-18T15:00:00Z",
+                "end": "2025-04-18T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-04-19T11:00:00Z",
+                "end": "2025-04-19T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-04-19T16:00:00Z",
+                "end": "2025-04-19T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-04-20T15:00:00Z",
+                "end": "2025-04-20T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Miami Grand Prix",
+        "countryName": "UnitedStates",
+        "countryKey": null,
+        "roundNumber": 6,
+        "start": "2025-05-02T10:00:00Z",
+        "end": "2025-05-04T15:00:00Z",
+        "gmt_offset": "-04:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-05-02T10:00:00Z",
+                "end": "2025-05-02T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Sprint Qualifying",
+                "start": "2025-05-02T14:00:00Z",
+                "end": "2025-05-02T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Sprint",
+                "start": "2025-05-03T12:00:00Z",
+                "end": "2025-05-03T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-05-03T17:00:00Z",
+                "end": "2025-05-03T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-05-04T14:00:00Z",
+                "end": "2025-05-04T15:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Emilia Romagna Grand Prix",
+        "countryName": "Italy",
+        "countryKey": null,
+        "roundNumber": 7,
+        "start": "2025-05-16T10:00:00Z",
+        "end": "2025-05-18T16:00:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-05-16T10:00:00Z",
+                "end": "2025-05-16T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-05-16T15:00:00Z",
+                "end": "2025-05-16T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-05-17T11:00:00Z",
+                "end": "2025-05-17T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-05-17T16:00:00Z",
+                "end": "2025-05-17T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-05-18T15:00:00Z",
+                "end": "2025-05-18T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Monaco Grand Prix",
+        "countryName": "Monaco",
+        "countryKey": null,
+        "roundNumber": 8,
+        "start": "2025-05-23T10:00:00Z",
+        "end": "2025-05-25T16:00:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-05-23T10:00:00Z",
+                "end": "2025-05-23T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-05-23T15:00:00Z",
+                "end": "2025-05-23T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-05-24T11:00:00Z",
+                "end": "2025-05-24T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-05-24T16:00:00Z",
+                "end": "2025-05-24T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-05-25T15:00:00Z",
+                "end": "2025-05-25T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Spanish Grand Prix",
+        "countryName": "Spain",
+        "countryKey": null,
+        "roundNumber": 9,
+        "start": "2025-05-30T10:00:00Z",
+        "end": "2025-06-01T16:00:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-05-30T10:00:00Z",
+                "end": "2025-05-30T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-05-30T15:00:00Z",
+                "end": "2025-05-30T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-05-31T11:00:00Z",
+                "end": "2025-05-31T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-05-31T16:00:00Z",
+                "end": "2025-05-31T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-06-01T15:00:00Z",
+                "end": "2025-06-01T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Canadian Grand Prix",
+        "countryName": "Canada",
+        "countryKey": null,
+        "roundNumber": 10,
+        "start": "2025-06-13T10:00:00Z",
+        "end": "2025-06-15T16:00:00Z",
+        "gmt_offset": "-04:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-06-13T10:00:00Z",
+                "end": "2025-06-13T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-06-13T15:00:00Z",
+                "end": "2025-06-13T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-06-14T11:00:00Z",
+                "end": "2025-06-14T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-06-14T16:00:00Z",
+                "end": "2025-06-14T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-06-15T15:00:00Z",
+                "end": "2025-06-15T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Austrian Grand Prix",
+        "countryName": "Austria",
+        "countryKey": null,
+        "roundNumber": 11,
+        "start": "2025-06-27T10:00:00Z",
+        "end": "2025-06-29T16:00:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-06-27T10:00:00Z",
+                "end": "2025-06-27T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-06-27T15:00:00Z",
+                "end": "2025-06-27T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-06-28T11:00:00Z",
+                "end": "2025-06-28T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-06-28T16:00:00Z",
+                "end": "2025-06-28T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-06-29T15:00:00Z",
+                "end": "2025-06-29T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "British Grand Prix",
+        "countryName": "UnitedKingdom",
+        "countryKey": null,
+        "roundNumber": 12,
+        "start": "2025-07-04T10:00:00Z",
+        "end": "2025-07-06T16:00:00Z",
+        "gmt_offset": "+01:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-07-04T10:00:00Z",
+                "end": "2025-07-04T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-07-04T15:00:00Z",
+                "end": "2025-07-04T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-07-05T11:00:00Z",
+                "end": "2025-07-05T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-07-05T16:00:00Z",
+                "end": "2025-07-05T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-07-06T15:00:00Z",
+                "end": "2025-07-06T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Belgian Grand Prix",
+        "countryName": "Belgium",
+        "countryKey": null,
+        "roundNumber": 13,
+        "start": "2025-07-25T10:00:00Z",
+        "end": "2025-07-27T15:00:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-07-25T10:00:00Z",
+                "end": "2025-07-25T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Sprint Qualifying",
+                "start": "2025-07-25T14:00:00Z",
+                "end": "2025-07-25T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Sprint",
+                "start": "2025-07-26T12:00:00Z",
+                "end": "2025-07-26T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-07-26T17:00:00Z",
+                "end": "2025-07-26T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-07-27T14:00:00Z",
+                "end": "2025-07-27T15:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Hungarian Grand Prix",
+        "countryName": "Hungary",
+        "countryKey": null,
+        "roundNumber": 14,
+        "start": "2025-08-01T10:00:00Z",
+        "end": "2025-08-03T16:00:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-08-01T10:00:00Z",
+                "end": "2025-08-01T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-08-01T15:00:00Z",
+                "end": "2025-08-01T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-08-02T11:00:00Z",
+                "end": "2025-08-02T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-08-02T16:00:00Z",
+                "end": "2025-08-02T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-08-03T15:00:00Z",
+                "end": "2025-08-03T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Dutch Grand Prix",
+        "countryName": "Netherlands",
+        "countryKey": null,
+        "roundNumber": 15,
+        "start": "2025-08-29T10:00:00Z",
+        "end": "2025-08-31T16:00:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-08-29T10:00:00Z",
+                "end": "2025-08-29T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-08-29T15:00:00Z",
+                "end": "2025-08-29T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-08-30T11:00:00Z",
+                "end": "2025-08-30T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-08-30T16:00:00Z",
+                "end": "2025-08-30T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-08-31T15:00:00Z",
+                "end": "2025-08-31T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Italian Grand Prix",
+        "countryName": "Italy",
+        "countryKey": null,
+        "roundNumber": 16,
+        "start": "2025-09-05T10:00:00Z",
+        "end": "2025-09-07T16:00:00Z",
+        "gmt_offset": "+02:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-09-05T10:00:00Z",
+                "end": "2025-09-05T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-09-05T15:00:00Z",
+                "end": "2025-09-05T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-09-06T11:00:00Z",
+                "end": "2025-09-06T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-09-06T16:00:00Z",
+                "end": "2025-09-06T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-09-07T15:00:00Z",
+                "end": "2025-09-07T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Azerbaijan Grand Prix",
+        "countryName": "Azerbaijan",
+        "countryKey": null,
+        "roundNumber": 17,
+        "start": "2025-09-19T10:00:00Z",
+        "end": "2025-09-21T16:00:00Z",
+        "gmt_offset": "+04:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-09-19T10:00:00Z",
+                "end": "2025-09-19T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-09-19T15:00:00Z",
+                "end": "2025-09-19T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-09-20T11:00:00Z",
+                "end": "2025-09-20T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-09-20T16:00:00Z",
+                "end": "2025-09-20T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-09-21T15:00:00Z",
+                "end": "2025-09-21T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Singapore Grand Prix",
+        "countryName": "Singapore",
+        "countryKey": null,
+        "roundNumber": 18,
+        "start": "2025-10-03T10:00:00Z",
+        "end": "2025-10-05T16:00:00Z",
+        "gmt_offset": "+08:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-10-03T10:00:00Z",
+                "end": "2025-10-03T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-10-03T15:00:00Z",
+                "end": "2025-10-03T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-10-04T11:00:00Z",
+                "end": "2025-10-04T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-10-04T16:00:00Z",
+                "end": "2025-10-04T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-10-05T15:00:00Z",
+                "end": "2025-10-05T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "United States Grand Prix",
+        "countryName": "UnitedStates",
+        "countryKey": null,
+        "roundNumber": 19,
+        "start": "2025-10-17T10:00:00Z",
+        "end": "2025-10-19T15:00:00Z",
+        "gmt_offset": "-05:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-10-17T10:00:00Z",
+                "end": "2025-10-17T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Sprint Qualifying",
+                "start": "2025-10-17T14:00:00Z",
+                "end": "2025-10-17T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Sprint",
+                "start": "2025-10-18T12:00:00Z",
+                "end": "2025-10-18T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-10-18T17:00:00Z",
+                "end": "2025-10-18T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-10-19T14:00:00Z",
+                "end": "2025-10-19T15:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Mexico City Grand Prix",
+        "countryName": "Mexico",
+        "countryKey": null,
+        "roundNumber": 20,
+        "start": "2025-10-24T10:00:00Z",
+        "end": "2025-10-26T16:00:00Z",
+        "gmt_offset": "-06:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-10-24T10:00:00Z",
+                "end": "2025-10-24T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-10-24T15:00:00Z",
+                "end": "2025-10-24T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-10-25T11:00:00Z",
+                "end": "2025-10-25T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-10-25T16:00:00Z",
+                "end": "2025-10-25T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-10-26T15:00:00Z",
+                "end": "2025-10-26T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "S\u00e3o Paulo Grand Prix",
+        "countryName": "Brazil",
+        "countryKey": null,
+        "roundNumber": 21,
+        "start": "2025-11-07T10:00:00Z",
+        "end": "2025-11-09T15:00:00Z",
+        "gmt_offset": "-03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-11-07T10:00:00Z",
+                "end": "2025-11-07T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Sprint Qualifying",
+                "start": "2025-11-07T14:00:00Z",
+                "end": "2025-11-07T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Sprint",
+                "start": "2025-11-08T12:00:00Z",
+                "end": "2025-11-08T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-11-08T17:00:00Z",
+                "end": "2025-11-08T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-11-09T14:00:00Z",
+                "end": "2025-11-09T15:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Las Vegas Grand Prix",
+        "countryName": "UnitedStates",
+        "countryKey": null,
+        "roundNumber": 22,
+        "start": "2025-11-20T10:00:00Z",
+        "end": "2025-11-22T16:00:00Z",
+        "gmt_offset": "-08:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-11-20T10:00:00Z",
+                "end": "2025-11-20T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-11-20T15:00:00Z",
+                "end": "2025-11-20T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-11-21T11:00:00Z",
+                "end": "2025-11-21T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-11-21T16:00:00Z",
+                "end": "2025-11-21T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-11-22T15:00:00Z",
+                "end": "2025-11-22T16:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Qatar Grand Prix",
+        "countryName": "Qatar",
+        "countryKey": null,
+        "roundNumber": 23,
+        "start": "2025-11-28T10:00:00Z",
+        "end": "2025-11-30T15:00:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-11-28T10:00:00Z",
+                "end": "2025-11-28T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Sprint Qualifying",
+                "start": "2025-11-28T14:00:00Z",
+                "end": "2025-11-28T15:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Sprint",
+                "start": "2025-11-29T12:00:00Z",
+                "end": "2025-11-29T13:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-11-29T17:00:00Z",
+                "end": "2025-11-29T18:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-11-30T14:00:00Z",
+                "end": "2025-11-30T15:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Abu Dhabi Grand Prix",
+        "countryName": "UnitedArabEmirates",
+        "countryKey": null,
+        "roundNumber": 24,
+        "start": "2025-12-05T10:00:00Z",
+        "end": "2025-12-07T16:00:00Z",
+        "gmt_offset": "+04:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2025-12-05T10:00:00Z",
+                "end": "2025-12-05T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2025-12-05T15:00:00Z",
+                "end": "2025-12-05T16:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2025-12-06T11:00:00Z",
+                "end": "2025-12-06T12:00:00Z"
+            },
+            {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2025-12-06T16:00:00Z",
+                "end": "2025-12-06T17:00:00Z"
+            },
+            {
+                "sessionNumber": "5",
+                "kind": "Race",
+                "start": "2025-12-07T15:00:00Z",
+                "end": "2025-12-07T16:00:00Z"
+            }
+        ],
+        "over": false
+    }
+]
