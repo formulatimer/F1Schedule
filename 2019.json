@@ -379,7 +379,7 @@
     },
     {
         "name": "British Grand Prix",
-        "countryName": "Great Britain",
+        "countryName": "GreatBritain",
         "countryKey": null,
         "roundNumber": 10,
         "start": "2019-07-12T10:00:00Z",
@@ -757,7 +757,7 @@
     },
     {
         "name": "United States Grand Prix",
-        "countryName": "United States",
+        "countryName": "UnitedStates",
         "countryKey": null,
         "roundNumber": 19,
         "start": "2019-11-01T11:00:00Z",
@@ -841,7 +841,7 @@
     },
     {
         "name": "Abu Dhabi Grand Prix",
-        "countryName": "Abu Dhabi",
+        "countryName": "AbuDhabi",
         "countryKey": null,
         "roundNumber": 21,
         "start": "2019-11-29T13:00:00Z",
