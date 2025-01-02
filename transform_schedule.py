@@ -53,7 +53,7 @@ def transform_json(input_url, output_file):
     origin = repo.remote(name='origin')
     origin.push()
 
-for year in range(2018, 2025):
+for year in range(2018, 2030):
     input_url = f'https://raw.githubusercontent.com/theOehrly/f1schedule/refs/heads/master/schedule_{year}.json'
     output_file = f'{year}.json'
     transform_json(input_url, output_file)
