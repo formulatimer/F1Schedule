@@ -38,11 +38,10 @@ def transform_json(input_url, output_file):
                     "start": session_start + 'Z',
                     "end": session_end_dt.isoformat() + 'Z'
                 })
-
-        event["start"] = min(session["start"] for session in event["sessions"])
-        event["end"] = max(session["end"] for session in event["sessions"])
-
-        transformed_data.append(event)
+        if event["sessions"]:
+            event["start"] = min(session["start"] for session in event["sessions"])
+            event["end"] = max(session["end"] for session in event["sessions"])
+            transformed_data.append(event)
 
     with open(output_file, 'w') as f:
         json.dump(transformed_data, f, indent=4)
@@ -64,3 +63,4 @@ for year in range(2018, current_year+1):
         transform_json(input_url, output_file)
     else:
         print(f"{year} not avaliable")
+
