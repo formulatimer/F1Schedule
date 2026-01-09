@@ -1,5 +1,65 @@
 [
     {
+        "name": "Pre-Season Testing",
+        "countryName": "Bahrain",
+        "countryKey": null,
+        "roundNumber": 0,
+        "start": "2026-02-11T10:00:00Z",
+        "end": "2026-02-13T11:00:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2026-02-11T10:00:00Z",
+                "end": "2026-02-11T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2026-02-12T10:00:00Z",
+                "end": "2026-02-12T11:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2026-02-13T10:00:00Z",
+                "end": "2026-02-13T11:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
+        "name": "Pre-Season Testing",
+        "countryName": "Bahrain",
+        "countryKey": null,
+        "roundNumber": 0,
+        "start": "2026-02-18T10:00:00Z",
+        "end": "2026-02-20T11:00:00Z",
+        "gmt_offset": "+03:00",
+        "sessions": [
+            {
+                "sessionNumber": "1",
+                "kind": "Practice 1",
+                "start": "2026-02-18T10:00:00Z",
+                "end": "2026-02-18T11:00:00Z"
+            },
+            {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2026-02-19T10:00:00Z",
+                "end": "2026-02-19T11:00:00Z"
+            },
+            {
+                "sessionNumber": "3",
+                "kind": "Practice 3",
+                "start": "2026-02-20T10:00:00Z",
+                "end": "2026-02-20T11:00:00Z"
+            }
+        ],
+        "over": false
+    },
+    {
         "name": "Australian Grand Prix",
         "countryName": "Australia",
         "countryKey": null,
