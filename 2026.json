@@ -778,15 +778,15 @@
         "countryName": "Singapore",
         "countryKey": null,
         "roundNumber": 18,
-        "start": "2026-10-09T17:30:00Z",
+        "start": "2026-10-09T16:30:00Z",
         "end": "2026-10-11T21:00:00Z",
         "gmt_offset": "+08:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2026-10-09T17:30:00Z",
-                "end": "2026-10-09T18:30:00Z"
+                "start": "2026-10-09T16:30:00Z",
+                "end": "2026-10-09T17:30:00Z"
             },
             {
                 "sessionNumber": "2",
