@@ -65,15 +65,29 @@ def transform_json(input_url, output_file):
 current_year = datetime.now().year
 
 repo = git.Repo(os.getcwd())
+origin = repo.remote(name='origin')
+
+# ✅ 1) Sync repo FIRST
 repo.git.pull('--rebase')
 
-for year in range(2018, current_year+1):
+current_year = datetime.now().year
+
+for year in range(2018, current_year + 1):
     input_url = f'https://raw.githubusercontent.com/theOehrly/f1schedule/refs/heads/master/schedule_{year}.json'
     output_file = f'{year}.json'
     response = requests.get(input_url)
     if response.status_code == 200:
         transform_json(input_url, output_file)
     else:
-        print(f"{year} not avaliable")
+        print(f"{year} not available")
+
+# ✅ 2) Commit once
+repo.git.add(A=True)
+
+if repo.is_dirty():
+    repo.index.commit("Update F1 schedules")
+    origin.push()
+else:
+    print("No changes to commit")
 
 
