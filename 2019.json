@@ -4,39 +4,39 @@
         "countryName": "Australia",
         "countryKey": null,
         "roundNumber": 1,
-        "start": "2019-03-15T12:00:00Z",
-        "end": "2019-03-17T17:10:00Z",
+        "start": "2019-03-15T01:00:00Z",
+        "end": "2019-03-17T06:10:00Z",
         "gmt_offset": "+11:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-03-15T12:00:00Z",
-                "end": "2019-03-15T13:00:00Z"
+                "start": "2019-03-15T01:00:00Z",
+                "end": "2019-03-15T02:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-03-15T16:00:00Z",
-                "end": "2019-03-15T17:00:00Z"
+                "start": "2019-03-15T05:00:00Z",
+                "end": "2019-03-15T06:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-03-16T14:00:00Z",
-                "end": "2019-03-16T15:00:00Z"
+                "start": "2019-03-16T03:00:00Z",
+                "end": "2019-03-16T04:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-03-16T17:00:00Z",
-                "end": "2019-03-16T18:00:00Z"
+                "start": "2019-03-16T06:00:00Z",
+                "end": "2019-03-16T07:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-03-17T16:10:00Z",
-                "end": "2019-03-17T17:10:00Z"
+                "start": "2019-03-17T05:10:00Z",
+                "end": "2019-03-17T06:10:00Z"
             }
         ],
         "over": false
@@ -46,39 +46,39 @@
         "countryName": "Bahrain",
         "countryKey": null,
         "roundNumber": 2,
-        "start": "2019-03-29T14:00:00Z",
-        "end": "2019-03-31T19:10:00Z",
+        "start": "2019-03-29T11:00:00Z",
+        "end": "2019-03-31T16:10:00Z",
         "gmt_offset": "+03:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-03-29T14:00:00Z",
-                "end": "2019-03-29T15:00:00Z"
+                "start": "2019-03-29T11:00:00Z",
+                "end": "2019-03-29T12:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-03-29T18:00:00Z",
-                "end": "2019-03-29T19:00:00Z"
+                "start": "2019-03-29T15:00:00Z",
+                "end": "2019-03-29T16:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-03-30T15:00:00Z",
-                "end": "2019-03-30T16:00:00Z"
+                "start": "2019-03-30T12:00:00Z",
+                "end": "2019-03-30T13:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-03-30T18:00:00Z",
-                "end": "2019-03-30T19:00:00Z"
+                "start": "2019-03-30T15:00:00Z",
+                "end": "2019-03-30T16:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-03-31T18:10:00Z",
-                "end": "2019-03-31T19:10:00Z"
+                "start": "2019-03-31T15:10:00Z",
+                "end": "2019-03-31T16:10:00Z"
             }
         ],
         "over": false
@@ -88,39 +88,39 @@
         "countryName": "China",
         "countryKey": null,
         "roundNumber": 3,
-        "start": "2019-04-12T10:00:00Z",
-        "end": "2019-04-14T15:10:00Z",
+        "start": "2019-04-12T02:00:00Z",
+        "end": "2019-04-14T07:10:00Z",
         "gmt_offset": "+08:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-04-12T10:00:00Z",
-                "end": "2019-04-12T11:00:00Z"
+                "start": "2019-04-12T02:00:00Z",
+                "end": "2019-04-12T03:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-04-12T14:00:00Z",
-                "end": "2019-04-12T15:00:00Z"
+                "start": "2019-04-12T06:00:00Z",
+                "end": "2019-04-12T07:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-04-13T11:00:00Z",
-                "end": "2019-04-13T12:00:00Z"
+                "start": "2019-04-13T03:00:00Z",
+                "end": "2019-04-13T04:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-04-13T14:00:00Z",
-                "end": "2019-04-13T15:00:00Z"
+                "start": "2019-04-13T06:00:00Z",
+                "end": "2019-04-13T07:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-04-14T14:10:00Z",
-                "end": "2019-04-14T15:10:00Z"
+                "start": "2019-04-14T06:10:00Z",
+                "end": "2019-04-14T07:10:00Z"
             }
         ],
         "over": false
@@ -130,39 +130,39 @@
         "countryName": "Azerbaijan",
         "countryKey": null,
         "roundNumber": 4,
-        "start": "2019-04-26T13:00:00Z",
-        "end": "2019-04-28T17:10:00Z",
+        "start": "2019-04-26T09:00:00Z",
+        "end": "2019-04-28T13:10:00Z",
         "gmt_offset": "+04:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-04-26T13:00:00Z",
-                "end": "2019-04-26T14:00:00Z"
+                "start": "2019-04-26T09:00:00Z",
+                "end": "2019-04-26T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-04-26T17:00:00Z",
-                "end": "2019-04-26T18:00:00Z"
+                "start": "2019-04-26T13:00:00Z",
+                "end": "2019-04-26T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-04-27T14:00:00Z",
-                "end": "2019-04-27T15:00:00Z"
+                "start": "2019-04-27T10:00:00Z",
+                "end": "2019-04-27T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-04-27T17:00:00Z",
-                "end": "2019-04-27T18:00:00Z"
+                "start": "2019-04-27T13:00:00Z",
+                "end": "2019-04-27T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-04-28T16:10:00Z",
-                "end": "2019-04-28T17:10:00Z"
+                "start": "2019-04-28T12:10:00Z",
+                "end": "2019-04-28T13:10:00Z"
             }
         ],
         "over": false
@@ -172,39 +172,39 @@
         "countryName": "Spain",
         "countryKey": null,
         "roundNumber": 5,
-        "start": "2019-05-10T11:00:00Z",
-        "end": "2019-05-12T16:10:00Z",
+        "start": "2019-05-10T09:00:00Z",
+        "end": "2019-05-12T14:10:00Z",
         "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-05-10T11:00:00Z",
-                "end": "2019-05-10T12:00:00Z"
+                "start": "2019-05-10T09:00:00Z",
+                "end": "2019-05-10T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-05-10T15:00:00Z",
-                "end": "2019-05-10T16:00:00Z"
+                "start": "2019-05-10T13:00:00Z",
+                "end": "2019-05-10T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-05-11T12:00:00Z",
-                "end": "2019-05-11T13:00:00Z"
+                "start": "2019-05-11T10:00:00Z",
+                "end": "2019-05-11T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-05-11T15:00:00Z",
-                "end": "2019-05-11T16:00:00Z"
+                "start": "2019-05-11T13:00:00Z",
+                "end": "2019-05-11T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-05-12T15:10:00Z",
-                "end": "2019-05-12T16:10:00Z"
+                "start": "2019-05-12T13:10:00Z",
+                "end": "2019-05-12T14:10:00Z"
             }
         ],
         "over": false
@@ -214,39 +214,39 @@
         "countryName": "Monaco",
         "countryKey": null,
         "roundNumber": 6,
-        "start": "2019-05-23T11:00:00Z",
-        "end": "2019-05-26T16:10:00Z",
+        "start": "2019-05-23T09:00:00Z",
+        "end": "2019-05-26T14:10:00Z",
         "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-05-23T11:00:00Z",
-                "end": "2019-05-23T12:00:00Z"
+                "start": "2019-05-23T09:00:00Z",
+                "end": "2019-05-23T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-05-23T15:00:00Z",
-                "end": "2019-05-23T16:00:00Z"
+                "start": "2019-05-23T13:00:00Z",
+                "end": "2019-05-23T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-05-25T12:00:00Z",
-                "end": "2019-05-25T13:00:00Z"
+                "start": "2019-05-25T10:00:00Z",
+                "end": "2019-05-25T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-05-25T15:00:00Z",
-                "end": "2019-05-25T16:00:00Z"
+                "start": "2019-05-25T13:00:00Z",
+                "end": "2019-05-25T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-05-26T15:10:00Z",
-                "end": "2019-05-26T16:10:00Z"
+                "start": "2019-05-26T13:10:00Z",
+                "end": "2019-05-26T14:10:00Z"
             }
         ],
         "over": false
@@ -256,39 +256,39 @@
         "countryName": "Canada",
         "countryKey": null,
         "roundNumber": 7,
-        "start": "2019-06-07T10:00:00Z",
-        "end": "2019-06-09T15:10:00Z",
+        "start": "2019-06-07T14:00:00Z",
+        "end": "2019-06-09T19:10:00Z",
         "gmt_offset": "-04:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-06-07T10:00:00Z",
-                "end": "2019-06-07T11:00:00Z"
-            },
-            {
-                "sessionNumber": "2",
-                "kind": "Practice 2",
                 "start": "2019-06-07T14:00:00Z",
                 "end": "2019-06-07T15:00:00Z"
             },
             {
+                "sessionNumber": "2",
+                "kind": "Practice 2",
+                "start": "2019-06-07T18:00:00Z",
+                "end": "2019-06-07T19:00:00Z"
+            },
+            {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-06-08T11:00:00Z",
-                "end": "2019-06-08T12:00:00Z"
+                "start": "2019-06-08T15:00:00Z",
+                "end": "2019-06-08T16:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-06-08T14:00:00Z",
-                "end": "2019-06-08T15:00:00Z"
+                "start": "2019-06-08T18:00:00Z",
+                "end": "2019-06-08T19:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-06-09T14:10:00Z",
-                "end": "2019-06-09T15:10:00Z"
+                "start": "2019-06-09T18:10:00Z",
+                "end": "2019-06-09T19:10:00Z"
             }
         ],
         "over": false
@@ -298,39 +298,39 @@
         "countryName": "France",
         "countryKey": null,
         "roundNumber": 8,
-        "start": "2019-06-21T11:00:00Z",
-        "end": "2019-06-23T16:10:00Z",
+        "start": "2019-06-21T09:00:00Z",
+        "end": "2019-06-23T14:10:00Z",
         "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-06-21T11:00:00Z",
-                "end": "2019-06-21T12:00:00Z"
+                "start": "2019-06-21T09:00:00Z",
+                "end": "2019-06-21T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-06-21T15:00:00Z",
-                "end": "2019-06-21T16:00:00Z"
+                "start": "2019-06-21T13:00:00Z",
+                "end": "2019-06-21T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-06-22T12:00:00Z",
-                "end": "2019-06-22T13:00:00Z"
+                "start": "2019-06-22T10:00:00Z",
+                "end": "2019-06-22T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-06-22T15:00:00Z",
-                "end": "2019-06-22T16:00:00Z"
+                "start": "2019-06-22T13:00:00Z",
+                "end": "2019-06-22T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-06-23T15:10:00Z",
-                "end": "2019-06-23T16:10:00Z"
+                "start": "2019-06-23T13:10:00Z",
+                "end": "2019-06-23T14:10:00Z"
             }
         ],
         "over": false
@@ -340,39 +340,39 @@
         "countryName": "Austria",
         "countryKey": null,
         "roundNumber": 9,
-        "start": "2019-06-28T11:00:00Z",
-        "end": "2019-06-30T16:10:00Z",
+        "start": "2019-06-28T09:00:00Z",
+        "end": "2019-06-30T14:10:00Z",
         "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-06-28T11:00:00Z",
-                "end": "2019-06-28T12:00:00Z"
+                "start": "2019-06-28T09:00:00Z",
+                "end": "2019-06-28T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-06-28T15:00:00Z",
-                "end": "2019-06-28T16:00:00Z"
+                "start": "2019-06-28T13:00:00Z",
+                "end": "2019-06-28T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-06-29T12:00:00Z",
-                "end": "2019-06-29T13:00:00Z"
+                "start": "2019-06-29T10:00:00Z",
+                "end": "2019-06-29T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-06-29T15:00:00Z",
-                "end": "2019-06-29T16:00:00Z"
+                "start": "2019-06-29T13:00:00Z",
+                "end": "2019-06-29T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-06-30T15:10:00Z",
-                "end": "2019-06-30T16:10:00Z"
+                "start": "2019-06-30T13:10:00Z",
+                "end": "2019-06-30T14:10:00Z"
             }
         ],
         "over": false
@@ -382,39 +382,39 @@
         "countryName": "GreatBritain",
         "countryKey": null,
         "roundNumber": 10,
-        "start": "2019-07-12T10:00:00Z",
-        "end": "2019-07-14T15:10:00Z",
+        "start": "2019-07-12T09:00:00Z",
+        "end": "2019-07-14T14:10:00Z",
         "gmt_offset": "+01:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-07-12T10:00:00Z",
-                "end": "2019-07-12T11:00:00Z"
+                "start": "2019-07-12T09:00:00Z",
+                "end": "2019-07-12T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-07-12T14:00:00Z",
-                "end": "2019-07-12T15:00:00Z"
+                "start": "2019-07-12T13:00:00Z",
+                "end": "2019-07-12T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-07-13T11:00:00Z",
-                "end": "2019-07-13T12:00:00Z"
+                "start": "2019-07-13T10:00:00Z",
+                "end": "2019-07-13T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-07-13T14:00:00Z",
-                "end": "2019-07-13T15:00:00Z"
+                "start": "2019-07-13T13:00:00Z",
+                "end": "2019-07-13T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-07-14T14:10:00Z",
-                "end": "2019-07-14T15:10:00Z"
+                "start": "2019-07-14T13:10:00Z",
+                "end": "2019-07-14T14:10:00Z"
             }
         ],
         "over": false
@@ -424,39 +424,39 @@
         "countryName": "Germany",
         "countryKey": null,
         "roundNumber": 11,
-        "start": "2019-07-26T11:00:00Z",
-        "end": "2019-07-28T16:10:00Z",
+        "start": "2019-07-26T09:00:00Z",
+        "end": "2019-07-28T14:10:00Z",
         "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-07-26T11:00:00Z",
-                "end": "2019-07-26T12:00:00Z"
+                "start": "2019-07-26T09:00:00Z",
+                "end": "2019-07-26T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-07-26T15:00:00Z",
-                "end": "2019-07-26T16:00:00Z"
+                "start": "2019-07-26T13:00:00Z",
+                "end": "2019-07-26T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-07-27T12:00:00Z",
-                "end": "2019-07-27T13:00:00Z"
+                "start": "2019-07-27T10:00:00Z",
+                "end": "2019-07-27T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-07-27T15:00:00Z",
-                "end": "2019-07-27T16:00:00Z"
+                "start": "2019-07-27T13:00:00Z",
+                "end": "2019-07-27T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-07-28T15:10:00Z",
-                "end": "2019-07-28T16:10:00Z"
+                "start": "2019-07-28T13:10:00Z",
+                "end": "2019-07-28T14:10:00Z"
             }
         ],
         "over": false
@@ -466,39 +466,39 @@
         "countryName": "Hungary",
         "countryKey": null,
         "roundNumber": 12,
-        "start": "2019-08-02T11:00:00Z",
-        "end": "2019-08-04T16:10:00Z",
+        "start": "2019-08-02T09:00:00Z",
+        "end": "2019-08-04T14:10:00Z",
         "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-08-02T11:00:00Z",
-                "end": "2019-08-02T12:00:00Z"
+                "start": "2019-08-02T09:00:00Z",
+                "end": "2019-08-02T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-08-02T15:00:00Z",
-                "end": "2019-08-02T16:00:00Z"
+                "start": "2019-08-02T13:00:00Z",
+                "end": "2019-08-02T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-08-03T12:00:00Z",
-                "end": "2019-08-03T13:00:00Z"
+                "start": "2019-08-03T10:00:00Z",
+                "end": "2019-08-03T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-08-03T15:00:00Z",
-                "end": "2019-08-03T16:00:00Z"
+                "start": "2019-08-03T13:00:00Z",
+                "end": "2019-08-03T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-08-04T15:10:00Z",
-                "end": "2019-08-04T16:10:00Z"
+                "start": "2019-08-04T13:10:00Z",
+                "end": "2019-08-04T14:10:00Z"
             }
         ],
         "over": false
@@ -508,39 +508,39 @@
         "countryName": "Belgium",
         "countryKey": null,
         "roundNumber": 13,
-        "start": "2019-08-30T11:00:00Z",
-        "end": "2019-09-01T16:10:00Z",
+        "start": "2019-08-30T09:00:00Z",
+        "end": "2019-09-01T14:10:00Z",
         "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-08-30T11:00:00Z",
-                "end": "2019-08-30T12:00:00Z"
+                "start": "2019-08-30T09:00:00Z",
+                "end": "2019-08-30T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-08-30T15:00:00Z",
-                "end": "2019-08-30T16:00:00Z"
+                "start": "2019-08-30T13:00:00Z",
+                "end": "2019-08-30T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-08-31T12:00:00Z",
-                "end": "2019-08-31T13:00:00Z"
+                "start": "2019-08-31T10:00:00Z",
+                "end": "2019-08-31T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-08-31T15:00:00Z",
-                "end": "2019-08-31T16:00:00Z"
+                "start": "2019-08-31T13:00:00Z",
+                "end": "2019-08-31T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-09-01T15:10:00Z",
-                "end": "2019-09-01T16:10:00Z"
+                "start": "2019-09-01T13:10:00Z",
+                "end": "2019-09-01T14:10:00Z"
             }
         ],
         "over": false
@@ -550,39 +550,39 @@
         "countryName": "Italy",
         "countryKey": null,
         "roundNumber": 14,
-        "start": "2019-09-06T11:00:00Z",
-        "end": "2019-09-08T16:10:00Z",
+        "start": "2019-09-06T09:00:00Z",
+        "end": "2019-09-08T14:10:00Z",
         "gmt_offset": "+02:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-09-06T11:00:00Z",
-                "end": "2019-09-06T12:00:00Z"
+                "start": "2019-09-06T09:00:00Z",
+                "end": "2019-09-06T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-09-06T15:00:00Z",
-                "end": "2019-09-06T16:00:00Z"
+                "start": "2019-09-06T13:00:00Z",
+                "end": "2019-09-06T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-09-07T12:00:00Z",
-                "end": "2019-09-07T13:00:00Z"
+                "start": "2019-09-07T10:00:00Z",
+                "end": "2019-09-07T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-09-07T15:00:00Z",
-                "end": "2019-09-07T16:00:00Z"
+                "start": "2019-09-07T13:00:00Z",
+                "end": "2019-09-07T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-09-08T15:10:00Z",
-                "end": "2019-09-08T16:10:00Z"
+                "start": "2019-09-08T13:10:00Z",
+                "end": "2019-09-08T14:10:00Z"
             }
         ],
         "over": false
@@ -592,39 +592,39 @@
         "countryName": "Singapore",
         "countryKey": null,
         "roundNumber": 15,
-        "start": "2019-09-20T16:30:00Z",
-        "end": "2019-09-22T21:10:00Z",
+        "start": "2019-09-20T08:30:00Z",
+        "end": "2019-09-22T13:10:00Z",
         "gmt_offset": "+08:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-09-20T16:30:00Z",
-                "end": "2019-09-20T17:30:00Z"
+                "start": "2019-09-20T08:30:00Z",
+                "end": "2019-09-20T09:30:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-09-20T20:30:00Z",
-                "end": "2019-09-20T21:30:00Z"
+                "start": "2019-09-20T12:30:00Z",
+                "end": "2019-09-20T13:30:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-09-21T18:00:00Z",
-                "end": "2019-09-21T19:00:00Z"
+                "start": "2019-09-21T10:00:00Z",
+                "end": "2019-09-21T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-09-21T21:00:00Z",
-                "end": "2019-09-21T22:00:00Z"
+                "start": "2019-09-21T13:00:00Z",
+                "end": "2019-09-21T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-09-22T20:10:00Z",
-                "end": "2019-09-22T21:10:00Z"
+                "start": "2019-09-22T12:10:00Z",
+                "end": "2019-09-22T13:10:00Z"
             }
         ],
         "over": false
@@ -634,39 +634,39 @@
         "countryName": "Russia",
         "countryKey": null,
         "roundNumber": 16,
-        "start": "2019-09-27T11:00:00Z",
-        "end": "2019-09-29T15:10:00Z",
+        "start": "2019-09-27T08:00:00Z",
+        "end": "2019-09-29T12:10:00Z",
         "gmt_offset": "+03:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-09-27T11:00:00Z",
-                "end": "2019-09-27T12:00:00Z"
+                "start": "2019-09-27T08:00:00Z",
+                "end": "2019-09-27T09:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-09-27T15:00:00Z",
-                "end": "2019-09-27T16:00:00Z"
+                "start": "2019-09-27T12:00:00Z",
+                "end": "2019-09-27T13:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-09-28T12:00:00Z",
-                "end": "2019-09-28T13:00:00Z"
+                "start": "2019-09-28T09:00:00Z",
+                "end": "2019-09-28T10:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-09-28T15:00:00Z",
-                "end": "2019-09-28T16:00:00Z"
+                "start": "2019-09-28T12:00:00Z",
+                "end": "2019-09-28T13:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-09-29T14:10:00Z",
-                "end": "2019-09-29T15:10:00Z"
+                "start": "2019-09-29T11:10:00Z",
+                "end": "2019-09-29T12:10:00Z"
             }
         ],
         "over": false
@@ -676,39 +676,39 @@
         "countryName": "Japan",
         "countryKey": null,
         "roundNumber": 17,
-        "start": "2019-10-11T10:00:00Z",
-        "end": "2019-10-13T15:10:00Z",
+        "start": "2019-10-11T01:00:00Z",
+        "end": "2019-10-13T06:10:00Z",
         "gmt_offset": "+09:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-10-11T10:00:00Z",
-                "end": "2019-10-11T11:00:00Z"
+                "start": "2019-10-11T01:00:00Z",
+                "end": "2019-10-11T02:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-10-11T14:00:00Z",
-                "end": "2019-10-11T15:00:00Z"
+                "start": "2019-10-11T05:00:00Z",
+                "end": "2019-10-11T06:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-10-12T12:00:00Z",
-                "end": "2019-10-12T13:00:00Z"
+                "start": "2019-10-12T03:00:00Z",
+                "end": "2019-10-12T04:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-10-13T10:00:00Z",
-                "end": "2019-10-13T11:00:00Z"
+                "start": "2019-10-13T01:00:00Z",
+                "end": "2019-10-13T02:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-10-13T14:10:00Z",
-                "end": "2019-10-13T15:10:00Z"
+                "start": "2019-10-13T05:10:00Z",
+                "end": "2019-10-13T06:10:00Z"
             }
         ],
         "over": false
@@ -718,39 +718,39 @@
         "countryName": "Mexico",
         "countryKey": null,
         "roundNumber": 18,
-        "start": "2019-10-25T10:00:00Z",
-        "end": "2019-10-27T14:10:00Z",
+        "start": "2019-10-25T16:00:00Z",
+        "end": "2019-10-27T20:10:00Z",
         "gmt_offset": "-06:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-10-25T10:00:00Z",
-                "end": "2019-10-25T11:00:00Z"
+                "start": "2019-10-25T16:00:00Z",
+                "end": "2019-10-25T17:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-10-25T14:00:00Z",
-                "end": "2019-10-25T15:00:00Z"
+                "start": "2019-10-25T20:00:00Z",
+                "end": "2019-10-25T21:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-10-26T10:00:00Z",
-                "end": "2019-10-26T11:00:00Z"
+                "start": "2019-10-26T16:00:00Z",
+                "end": "2019-10-26T17:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-10-26T13:00:00Z",
-                "end": "2019-10-26T14:00:00Z"
+                "start": "2019-10-26T19:00:00Z",
+                "end": "2019-10-26T20:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-10-27T13:10:00Z",
-                "end": "2019-10-27T14:10:00Z"
+                "start": "2019-10-27T19:10:00Z",
+                "end": "2019-10-27T20:10:00Z"
             }
         ],
         "over": false
@@ -760,39 +760,39 @@
         "countryName": "UnitedStates",
         "countryKey": null,
         "roundNumber": 19,
-        "start": "2019-11-01T11:00:00Z",
-        "end": "2019-11-03T14:10:00Z",
+        "start": "2019-11-01T17:00:00Z",
+        "end": "2019-11-03T20:10:00Z",
         "gmt_offset": "-06:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-11-01T11:00:00Z",
-                "end": "2019-11-01T12:00:00Z"
+                "start": "2019-11-01T17:00:00Z",
+                "end": "2019-11-01T18:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-11-01T15:00:00Z",
-                "end": "2019-11-01T16:00:00Z"
+                "start": "2019-11-01T21:00:00Z",
+                "end": "2019-11-01T22:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-11-02T13:00:00Z",
-                "end": "2019-11-02T14:00:00Z"
+                "start": "2019-11-02T19:00:00Z",
+                "end": "2019-11-02T20:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-11-02T16:00:00Z",
-                "end": "2019-11-02T17:00:00Z"
+                "start": "2019-11-02T22:00:00Z",
+                "end": "2019-11-02T23:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-11-03T13:10:00Z",
-                "end": "2019-11-03T14:10:00Z"
+                "start": "2019-11-03T19:10:00Z",
+                "end": "2019-11-03T20:10:00Z"
             }
         ],
         "over": false
@@ -802,39 +802,39 @@
         "countryName": "Brazil",
         "countryKey": null,
         "roundNumber": 20,
-        "start": "2019-11-15T11:00:00Z",
-        "end": "2019-11-17T15:10:00Z",
+        "start": "2019-11-15T14:00:00Z",
+        "end": "2019-11-17T18:10:00Z",
         "gmt_offset": "-03:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-11-15T11:00:00Z",
-                "end": "2019-11-15T12:00:00Z"
+                "start": "2019-11-15T14:00:00Z",
+                "end": "2019-11-15T15:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-11-15T15:00:00Z",
-                "end": "2019-11-15T16:00:00Z"
+                "start": "2019-11-15T18:00:00Z",
+                "end": "2019-11-15T19:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-11-16T12:00:00Z",
-                "end": "2019-11-16T13:00:00Z"
-            },
-            {
-                "sessionNumber": "4",
-                "kind": "Qualifying",
                 "start": "2019-11-16T15:00:00Z",
                 "end": "2019-11-16T16:00:00Z"
             },
             {
+                "sessionNumber": "4",
+                "kind": "Qualifying",
+                "start": "2019-11-16T18:00:00Z",
+                "end": "2019-11-16T19:00:00Z"
+            },
+            {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-11-17T14:10:00Z",
-                "end": "2019-11-17T15:10:00Z"
+                "start": "2019-11-17T17:10:00Z",
+                "end": "2019-11-17T18:10:00Z"
             }
         ],
         "over": false
@@ -844,39 +844,39 @@
         "countryName": "AbuDhabi",
         "countryKey": null,
         "roundNumber": 21,
-        "start": "2019-11-29T13:00:00Z",
-        "end": "2019-12-01T18:10:00Z",
+        "start": "2019-11-29T09:00:00Z",
+        "end": "2019-12-01T14:10:00Z",
         "gmt_offset": "+04:00",
         "sessions": [
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2019-11-29T13:00:00Z",
-                "end": "2019-11-29T14:00:00Z"
+                "start": "2019-11-29T09:00:00Z",
+                "end": "2019-11-29T10:00:00Z"
             },
             {
                 "sessionNumber": "2",
                 "kind": "Practice 2",
-                "start": "2019-11-29T17:00:00Z",
-                "end": "2019-11-29T18:00:00Z"
+                "start": "2019-11-29T13:00:00Z",
+                "end": "2019-11-29T14:00:00Z"
             },
             {
                 "sessionNumber": "3",
                 "kind": "Practice 3",
-                "start": "2019-11-30T14:00:00Z",
-                "end": "2019-11-30T15:00:00Z"
+                "start": "2019-11-30T10:00:00Z",
+                "end": "2019-11-30T11:00:00Z"
             },
             {
                 "sessionNumber": "4",
                 "kind": "Qualifying",
-                "start": "2019-11-30T17:00:00Z",
-                "end": "2019-11-30T18:00:00Z"
+                "start": "2019-11-30T13:00:00Z",
+                "end": "2019-11-30T14:00:00Z"
             },
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2019-12-01T17:10:00Z",
-                "end": "2019-12-01T18:10:00Z"
+                "start": "2019-12-01T13:10:00Z",
+                "end": "2019-12-01T14:10:00Z"
             }
         ],
         "over": false
