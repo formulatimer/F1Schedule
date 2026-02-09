@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 """Test suite for timezone conversion in transform_schedule.py"""
 
-import json
 from datetime import datetime, timedelta
-import tempfile
-import os
+
+
+def parse_gmt_offset(gmt_offset_str):
+    """Helper function to parse GMT offset string and return a timedelta."""
+    sign = 1 if gmt_offset_str[0] == '+' else -1
+    hours, minutes = map(int, gmt_offset_str[1:].split(':'))
+    return timedelta(hours=sign * hours, minutes=sign * minutes)
 
 
 def test_timezone_conversion():
@@ -17,13 +21,7 @@ def test_timezone_conversion():
     
     local_time = datetime.fromisoformat("2026-02-11T10:00:00")
     gmt_offset_str = "+03:00"
-    
-    # Parse GMT offset
-    sign = 1 if gmt_offset_str[0] == '+' else -1
-    hours, minutes = map(int, gmt_offset_str[1:].split(':'))
-    offset = timedelta(hours=sign * hours, minutes=sign * minutes)
-    
-    # Convert to UTC
+    offset = parse_gmt_offset(gmt_offset_str)
     utc_time = local_time - offset
     
     assert utc_time.isoformat() == "2026-02-11T07:00:00", \
@@ -37,11 +35,7 @@ def test_timezone_conversion():
     
     local_time = datetime.fromisoformat("2026-03-06T12:30:00")
     gmt_offset_str = "+11:00"
-    
-    sign = 1 if gmt_offset_str[0] == '+' else -1
-    hours, minutes = map(int, gmt_offset_str[1:].split(':'))
-    offset = timedelta(hours=sign * hours, minutes=sign * minutes)
-    
+    offset = parse_gmt_offset(gmt_offset_str)
     utc_time = local_time - offset
     
     assert utc_time.isoformat() == "2026-03-06T01:30:00", \
@@ -55,11 +49,7 @@ def test_timezone_conversion():
     
     local_time = datetime.fromisoformat("2026-05-03T14:00:00")
     gmt_offset_str = "-04:00"
-    
-    sign = 1 if gmt_offset_str[0] == '+' else -1
-    hours, minutes = map(int, gmt_offset_str[1:].split(':'))
-    offset = timedelta(hours=sign * hours, minutes=sign * minutes)
-    
+    offset = parse_gmt_offset(gmt_offset_str)
     utc_time = local_time - offset
     
     assert utc_time.isoformat() == "2026-05-03T18:00:00", \
@@ -73,11 +63,7 @@ def test_timezone_conversion():
     
     local_time = datetime.fromisoformat("2026-11-21T22:00:00")
     gmt_offset_str = "-08:00"
-    
-    sign = 1 if gmt_offset_str[0] == '+' else -1
-    hours, minutes = map(int, gmt_offset_str[1:].split(':'))
-    offset = timedelta(hours=sign * hours, minutes=sign * minutes)
-    
+    offset = parse_gmt_offset(gmt_offset_str)
     utc_time = local_time - offset
     
     assert utc_time.isoformat() == "2026-11-22T06:00:00", \
@@ -90,9 +76,6 @@ def test_timezone_conversion():
 def test_full_transformation():
     """Test the core transformation logic"""
     
-    import json
-    from datetime import datetime, timedelta
-    
     # Simulate the data and transformation logic
     sample_sessions = [
         ("2026-02-11T10:00:00", "+03:00", "2026-02-11T07:00:00Z"),  # Bahrain
@@ -103,10 +86,7 @@ def test_full_transformation():
     
     for local_time_str, gmt_offset_str, expected_utc in sample_sessions:
         # This is the exact logic from transform_schedule.py
-        sign = 1 if gmt_offset_str[0] == '+' else -1
-        hours, minutes = map(int, gmt_offset_str[1:].split(':'))
-        offset = timedelta(hours=sign * hours, minutes=sign * minutes)
-        
+        offset = parse_gmt_offset(gmt_offset_str)
         session_start_dt = datetime.fromisoformat(local_time_str)
         session_start_utc = session_start_dt - offset
         result = session_start_utc.isoformat() + 'Z'
