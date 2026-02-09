@@ -64,6 +64,9 @@ def transform_json(input_url, output_file):
 
 current_year = datetime.now().year
 
+repo = git.Repo(os.getcwd())
+repo.git.pull('--rebase')
+
 for year in range(2018, current_year+1):
     input_url = f'https://raw.githubusercontent.com/theOehrly/f1schedule/refs/heads/master/schedule_{year}.json'
     output_file = f'{year}.json'
@@ -72,4 +75,5 @@ for year in range(2018, current_year+1):
         transform_json(input_url, output_file)
     else:
         print(f"{year} not avaliable")
+
 
