@@ -68,6 +68,8 @@ repo = git.Repo(os.getcwd())
 origin = repo.remote(name='origin')
 
 # ✅ 1) Sync repo FIRST
+repo.git.reset('--hard')
+repo.git.clean('-fd')
 repo.git.pull('--rebase')
 
 current_year = datetime.now().year
@@ -89,5 +91,6 @@ if repo.is_dirty():
     origin.push()
 else:
     print("No changes to commit")
+
 
 
