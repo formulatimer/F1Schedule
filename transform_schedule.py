@@ -24,6 +24,8 @@ def transform_json(input_url, output_file):
         }
 
         # Parse GMT offset to convert local time to UTC
+        # The offset represents how much ahead/behind UTC the local time is
+        # To convert local time to UTC, we subtract the offset
         gmt_offset_str = data["gmt_offset"][str(i)]
         sign = 1 if gmt_offset_str[0] == '+' else -1
         hours, minutes = map(int, gmt_offset_str[1:].split(':'))
