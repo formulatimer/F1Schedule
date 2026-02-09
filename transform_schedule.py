@@ -23,20 +23,27 @@ def transform_json(input_url, output_file):
             "over": False
         }
 
+        # Parse GMT offset to convert local time to UTC
+        gmt_offset_str = data["gmt_offset"][str(i)]
+        sign = 1 if gmt_offset_str[0] == '+' else -1
+        hours, minutes = map(int, gmt_offset_str[1:].split(':'))
+        offset = timedelta(hours=sign * hours, minutes=sign * minutes)
+
         for j in range(1, 6):
             session_name = data[f'session{j}'][str(i)]
             session_date = data[f'session{j}_date'][str(i)]
 
             if session_name:
-                session_start = session_date
-                session_start_dt = datetime.fromisoformat(session_start)
-                session_end_dt = session_start_dt + timedelta(hours=1)
+                # Convert local time to UTC by subtracting the offset
+                session_start_dt = datetime.fromisoformat(session_date)
+                session_start_utc = session_start_dt - offset
+                session_end_utc = session_start_utc + timedelta(hours=1)
 
                 event["sessions"].append({
                     "sessionNumber": str(j),
                     "kind": session_name,
-                    "start": session_start + 'Z',
-                    "end": session_end_dt.isoformat() + 'Z'
+                    "start": session_start_utc.isoformat() + 'Z',
+                    "end": session_end_utc.isoformat() + 'Z'
                 })
         if event["sessions"]:
             event["start"] = min(session["start"] for session in event["sessions"])
