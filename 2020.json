@@ -2,12 +2,11 @@
     {
         "name": "Pre-Season Test 1",
         "countryName": "Spain",
-        "location": "Barcelona",
-        "roundNumber": 1,
+        "countryKey": null,
+        "roundNumber": 0,
         "start": "2020-02-19T08:00:00Z",
         "end": "2020-02-21T09:00:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "testing",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -27,17 +26,17 @@
                 "start": "2020-02-21T08:00:00Z",
                 "end": "2020-02-21T09:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Pre-Season Test 2",
         "countryName": "Spain",
-        "location": "Barcelona",
-        "roundNumber": 2,
+        "countryKey": null,
+        "roundNumber": 0,
         "start": "2020-02-26T08:00:00Z",
         "end": "2020-02-28T09:00:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "testing",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -57,17 +56,17 @@
                 "start": "2020-02-28T08:00:00Z",
                 "end": "2020-02-28T09:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Austrian Grand Prix",
         "countryName": "Austria",
-        "location": "Spielberg",
+        "countryKey": null,
         "roundNumber": 1,
         "start": "2020-07-03T09:00:00Z",
         "end": "2020-07-05T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -99,17 +98,17 @@
                 "start": "2020-07-05T13:10:00Z",
                 "end": "2020-07-05T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Styrian Grand Prix",
         "countryName": "Austria",
-        "location": "Spielberg",
+        "countryKey": null,
         "roundNumber": 2,
         "start": "2020-07-10T09:00:00Z",
         "end": "2020-07-12T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -141,17 +140,17 @@
                 "start": "2020-07-12T13:10:00Z",
                 "end": "2020-07-12T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Hungarian Grand Prix",
         "countryName": "Hungary",
-        "location": "Budapest",
+        "countryKey": null,
         "roundNumber": 3,
         "start": "2020-07-17T09:00:00Z",
         "end": "2020-07-19T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -183,17 +182,17 @@
                 "start": "2020-07-19T13:10:00Z",
                 "end": "2020-07-19T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "British Grand Prix",
         "countryName": "GreatBritain",
-        "location": "Silverstone",
+        "countryKey": null,
         "roundNumber": 4,
         "start": "2020-07-31T10:00:00Z",
         "end": "2020-08-02T14:10:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -225,17 +224,17 @@
                 "start": "2020-08-02T13:10:00Z",
                 "end": "2020-08-02T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "70th Anniversary Grand Prix",
         "countryName": "GreatBritain",
-        "location": "Silverstone",
+        "countryKey": null,
         "roundNumber": 5,
         "start": "2020-08-07T10:00:00Z",
         "end": "2020-08-09T14:10:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -267,17 +266,17 @@
                 "start": "2020-08-09T13:10:00Z",
                 "end": "2020-08-09T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Spanish Grand Prix",
         "countryName": "Spain",
-        "location": "Barcelona",
+        "countryKey": null,
         "roundNumber": 6,
         "start": "2020-08-14T09:00:00Z",
         "end": "2020-08-16T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -309,17 +308,17 @@
                 "start": "2020-08-16T13:10:00Z",
                 "end": "2020-08-16T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Belgian Grand Prix",
         "countryName": "Belgium",
-        "location": "Spa-Francorchamps",
+        "countryKey": null,
         "roundNumber": 7,
         "start": "2020-08-28T09:00:00Z",
         "end": "2020-08-30T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -351,17 +350,17 @@
                 "start": "2020-08-30T13:10:00Z",
                 "end": "2020-08-30T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Italian Grand Prix",
         "countryName": "Italy",
-        "location": "Monza",
+        "countryKey": null,
         "roundNumber": 8,
         "start": "2020-09-04T09:00:00Z",
         "end": "2020-09-06T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -393,17 +392,17 @@
                 "start": "2020-09-06T13:10:00Z",
                 "end": "2020-09-06T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Tuscan Grand Prix",
         "countryName": "Italy",
-        "location": "Mugello",
+        "countryKey": null,
         "roundNumber": 9,
         "start": "2020-09-11T09:00:00Z",
         "end": "2020-09-13T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -435,17 +434,17 @@
                 "start": "2020-09-13T13:10:00Z",
                 "end": "2020-09-13T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Russian Grand Prix",
         "countryName": "Russia",
-        "location": "Sochi",
+        "countryKey": null,
         "roundNumber": 10,
         "start": "2020-09-25T08:00:00Z",
         "end": "2020-09-27T12:10:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -477,17 +476,17 @@
                 "start": "2020-09-27T11:10:00Z",
                 "end": "2020-09-27T12:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Eifel Grand Prix",
         "countryName": "Germany",
-        "location": "N\u00fcrburgring",
+        "countryKey": null,
         "roundNumber": 11,
         "start": "2020-10-09T09:00:00Z",
         "end": "2020-10-11T13:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -519,17 +518,17 @@
                 "start": "2020-10-11T12:10:00Z",
                 "end": "2020-10-11T13:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Portuguese Grand Prix",
         "countryName": "Portugal",
-        "location": "Portim\u00e3o",
+        "countryKey": null,
         "roundNumber": 12,
         "start": "2020-10-23T11:00:00Z",
         "end": "2020-10-25T14:10:00Z",
         "gmt_offset": "+00:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -561,17 +560,17 @@
                 "start": "2020-10-25T13:10:00Z",
                 "end": "2020-10-25T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Emilia Romagna Grand Prix",
         "countryName": "Italy",
-        "location": "Imola",
+        "countryKey": null,
         "roundNumber": 13,
         "start": "2020-10-31T09:00:00Z",
         "end": "2020-11-01T13:10:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -591,17 +590,17 @@
                 "start": "2020-11-01T12:10:00Z",
                 "end": "2020-11-01T13:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Turkish Grand Prix",
         "countryName": "Turkey",
-        "location": "Istanbul",
+        "countryKey": null,
         "roundNumber": 14,
         "start": "2020-11-13T08:00:00Z",
         "end": "2020-11-15T11:10:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -633,17 +632,17 @@
                 "start": "2020-11-15T10:10:00Z",
                 "end": "2020-11-15T11:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Bahrain Grand Prix",
         "countryName": "Bahrain",
-        "location": "Sakhir",
+        "countryKey": null,
         "roundNumber": 15,
         "start": "2020-11-27T11:00:00Z",
         "end": "2020-11-29T15:10:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -675,17 +674,17 @@
                 "start": "2020-11-29T14:10:00Z",
                 "end": "2020-11-29T15:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Sakhir Grand Prix",
         "countryName": "Bahrain",
-        "location": "Sakhir",
+        "countryKey": null,
         "roundNumber": 16,
         "start": "2020-12-04T13:30:00Z",
         "end": "2020-12-06T18:10:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -717,17 +716,17 @@
                 "start": "2020-12-06T17:10:00Z",
                 "end": "2020-12-06T18:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Abu Dhabi Grand Prix",
         "countryName": "AbuDhabi",
-        "location": "Yas Island",
+        "countryKey": null,
         "roundNumber": 17,
         "start": "2020-12-11T09:00:00Z",
         "end": "2020-12-13T14:10:00Z",
         "gmt_offset": "+04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -759,6 +758,7 @@
                 "start": "2020-12-13T13:10:00Z",
                 "end": "2020-12-13T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     }
 ]

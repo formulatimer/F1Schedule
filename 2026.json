@@ -2,12 +2,11 @@
     {
         "name": "Pre-Season Testing",
         "countryName": "Bahrain",
-        "location": "Bahrain",
-        "roundNumber": 1,
+        "countryKey": null,
+        "roundNumber": 0,
         "start": "2026-02-11T07:00:00Z",
         "end": "2026-02-13T08:00:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "testing",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -27,17 +26,17 @@
                 "start": "2026-02-13T07:00:00Z",
                 "end": "2026-02-13T08:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Pre-Season Testing",
         "countryName": "Bahrain",
-        "location": "Bahrain",
-        "roundNumber": 2,
+        "countryKey": null,
+        "roundNumber": 0,
         "start": "2026-02-18T07:00:00Z",
         "end": "2026-02-20T08:00:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "testing",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -57,17 +56,17 @@
                 "start": "2026-02-20T07:00:00Z",
                 "end": "2026-02-20T08:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Australian Grand Prix",
         "countryName": "Australia",
-        "location": "Melbourne",
+        "countryKey": null,
         "roundNumber": 1,
         "start": "2026-03-06T01:30:00Z",
         "end": "2026-03-08T05:00:00Z",
         "gmt_offset": "+11:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -99,17 +98,17 @@
                 "start": "2026-03-08T04:00:00Z",
                 "end": "2026-03-08T05:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Chinese Grand Prix",
         "countryName": "China",
-        "location": "Shanghai",
+        "countryKey": null,
         "roundNumber": 2,
         "start": "2026-03-13T03:30:00Z",
         "end": "2026-03-15T08:00:00Z",
         "gmt_offset": "+08:00",
-        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -141,17 +140,17 @@
                 "start": "2026-03-15T07:00:00Z",
                 "end": "2026-03-15T08:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Japanese Grand Prix",
         "countryName": "Japan",
-        "location": "Suzuka",
+        "countryKey": null,
         "roundNumber": 3,
         "start": "2026-03-27T02:30:00Z",
         "end": "2026-03-29T06:00:00Z",
         "gmt_offset": "+09:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -183,17 +182,17 @@
                 "start": "2026-03-29T05:00:00Z",
                 "end": "2026-03-29T06:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Bahrain Grand Prix",
         "countryName": "Bahrain",
-        "location": "Sakhir",
+        "countryKey": null,
         "roundNumber": 4,
         "start": "2026-04-10T11:30:00Z",
         "end": "2026-04-12T16:00:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -225,17 +224,17 @@
                 "start": "2026-04-12T15:00:00Z",
                 "end": "2026-04-12T16:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Saudi Arabian Grand Prix",
         "countryName": "SaudiArabia",
-        "location": "Jeddah",
+        "countryKey": null,
         "roundNumber": 5,
         "start": "2026-04-17T13:30:00Z",
         "end": "2026-04-19T18:00:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -267,17 +266,17 @@
                 "start": "2026-04-19T17:00:00Z",
                 "end": "2026-04-19T18:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Miami Grand Prix",
         "countryName": "UnitedStates",
-        "location": "Miami Gardens",
+        "countryKey": null,
         "roundNumber": 6,
         "start": "2026-05-01T16:30:00Z",
         "end": "2026-05-03T21:00:00Z",
         "gmt_offset": "-04:00",
-        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -309,17 +308,17 @@
                 "start": "2026-05-03T20:00:00Z",
                 "end": "2026-05-03T21:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Canadian Grand Prix",
         "countryName": "Canada",
-        "location": "Montr\u00e9al",
+        "countryKey": null,
         "roundNumber": 7,
         "start": "2026-05-22T16:30:00Z",
         "end": "2026-05-24T21:00:00Z",
         "gmt_offset": "-04:00",
-        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -351,17 +350,17 @@
                 "start": "2026-05-24T20:00:00Z",
                 "end": "2026-05-24T21:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Monaco Grand Prix",
         "countryName": "Monaco",
-        "location": "Monte Carlo",
+        "countryKey": null,
         "roundNumber": 8,
         "start": "2026-06-05T11:30:00Z",
         "end": "2026-06-07T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -393,17 +392,17 @@
                 "start": "2026-06-07T13:00:00Z",
                 "end": "2026-06-07T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Barcelona Grand Prix",
         "countryName": "Spain",
-        "location": "Barcelona",
+        "countryKey": null,
         "roundNumber": 9,
         "start": "2026-06-12T11:30:00Z",
         "end": "2026-06-14T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -435,17 +434,17 @@
                 "start": "2026-06-14T13:00:00Z",
                 "end": "2026-06-14T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Austrian Grand Prix",
         "countryName": "Austria",
-        "location": "Spielberg",
+        "countryKey": null,
         "roundNumber": 10,
         "start": "2026-06-26T11:30:00Z",
         "end": "2026-06-28T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -477,17 +476,17 @@
                 "start": "2026-06-28T13:00:00Z",
                 "end": "2026-06-28T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "British Grand Prix",
         "countryName": "UnitedKingdom",
-        "location": "Silverstone",
+        "countryKey": null,
         "roundNumber": 11,
         "start": "2026-07-03T11:30:00Z",
         "end": "2026-07-05T15:00:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -519,17 +518,17 @@
                 "start": "2026-07-05T14:00:00Z",
                 "end": "2026-07-05T15:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Belgian Grand Prix",
         "countryName": "Belgium",
-        "location": "Spa-Francorchamps",
+        "countryKey": null,
         "roundNumber": 12,
         "start": "2026-07-17T11:30:00Z",
         "end": "2026-07-19T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -561,17 +560,17 @@
                 "start": "2026-07-19T13:00:00Z",
                 "end": "2026-07-19T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Hungarian Grand Prix",
         "countryName": "Hungary",
-        "location": "Budapest",
+        "countryKey": null,
         "roundNumber": 13,
         "start": "2026-07-24T11:30:00Z",
         "end": "2026-07-26T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -603,17 +602,17 @@
                 "start": "2026-07-26T13:00:00Z",
                 "end": "2026-07-26T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Dutch Grand Prix",
         "countryName": "Netherlands",
-        "location": "Zandvoort",
+        "countryKey": null,
         "roundNumber": 14,
         "start": "2026-08-21T10:30:00Z",
         "end": "2026-08-23T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -645,17 +644,17 @@
                 "start": "2026-08-23T13:00:00Z",
                 "end": "2026-08-23T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Italian Grand Prix",
         "countryName": "Italy",
-        "location": "Monza",
+        "countryKey": null,
         "roundNumber": 15,
         "start": "2026-09-04T10:30:00Z",
         "end": "2026-09-06T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -687,17 +686,17 @@
                 "start": "2026-09-06T13:00:00Z",
                 "end": "2026-09-06T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Spanish Grand Prix",
         "countryName": "Spain",
-        "location": "Madrid",
+        "countryKey": null,
         "roundNumber": 16,
         "start": "2026-09-11T11:30:00Z",
         "end": "2026-09-13T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -729,17 +728,17 @@
                 "start": "2026-09-13T13:00:00Z",
                 "end": "2026-09-13T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Azerbaijan Grand Prix",
         "countryName": "Azerbaijan",
-        "location": "Baku",
+        "countryKey": null,
         "roundNumber": 17,
         "start": "2026-09-24T08:30:00Z",
         "end": "2026-09-26T12:00:00Z",
         "gmt_offset": "+04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -771,17 +770,17 @@
                 "start": "2026-09-26T11:00:00Z",
                 "end": "2026-09-26T12:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Singapore Grand Prix",
         "countryName": "Singapore",
-        "location": "Marina Bay",
+        "countryKey": null,
         "roundNumber": 18,
         "start": "2026-10-09T08:30:00Z",
         "end": "2026-10-11T13:00:00Z",
         "gmt_offset": "+08:00",
-        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -813,17 +812,17 @@
                 "start": "2026-10-11T12:00:00Z",
                 "end": "2026-10-11T13:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "United States Grand Prix",
         "countryName": "UnitedStates",
-        "location": "Austin",
+        "countryKey": null,
         "roundNumber": 19,
         "start": "2026-10-23T17:30:00Z",
         "end": "2026-10-25T21:00:00Z",
         "gmt_offset": "-05:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -855,17 +854,17 @@
                 "start": "2026-10-25T20:00:00Z",
                 "end": "2026-10-25T21:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Mexico City Grand Prix",
         "countryName": "Mexico",
-        "location": "Mexico City",
+        "countryKey": null,
         "roundNumber": 20,
         "start": "2026-10-30T18:30:00Z",
         "end": "2026-11-01T21:00:00Z",
         "gmt_offset": "-06:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -897,17 +896,17 @@
                 "start": "2026-11-01T20:00:00Z",
                 "end": "2026-11-01T21:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "S\u00e3o Paulo Grand Prix",
         "countryName": "Brazil",
-        "location": "S\u00e3o Paulo",
+        "countryKey": null,
         "roundNumber": 21,
         "start": "2026-11-06T15:30:00Z",
         "end": "2026-11-08T18:00:00Z",
         "gmt_offset": "-03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -939,17 +938,17 @@
                 "start": "2026-11-08T17:00:00Z",
                 "end": "2026-11-08T18:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Las Vegas Grand Prix",
         "countryName": "UnitedStates",
-        "location": "Las Vegas",
+        "countryKey": null,
         "roundNumber": 22,
         "start": "2026-11-20T00:30:00Z",
         "end": "2026-11-22T05:00:00Z",
         "gmt_offset": "-08:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -981,17 +980,17 @@
                 "start": "2026-11-22T04:00:00Z",
                 "end": "2026-11-22T05:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Qatar Grand Prix",
         "countryName": "Qatar",
-        "location": "Lusail",
+        "countryKey": null,
         "roundNumber": 23,
         "start": "2026-11-27T13:30:00Z",
         "end": "2026-11-29T17:00:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -1023,17 +1022,17 @@
                 "start": "2026-11-29T16:00:00Z",
                 "end": "2026-11-29T17:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Abu Dhabi Grand Prix",
         "countryName": "UnitedArabEmirates",
-        "location": "Yas Marina",
+        "countryKey": null,
         "roundNumber": 24,
         "start": "2026-12-04T09:30:00Z",
         "end": "2026-12-06T14:00:00Z",
         "gmt_offset": "+04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -1065,6 +1064,7 @@
                 "start": "2026-12-06T13:00:00Z",
                 "end": "2026-12-06T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     }
 ]
