@@ -2,11 +2,12 @@
     {
         "name": "Pre-Season Testing",
         "countryName": "Bahrain",
-        "countryKey": null,
-        "roundNumber": 0,
+        "location": "Sakhir",
+        "roundNumber": 1,
         "start": "2024-02-21T07:00:00Z",
         "end": "2024-02-23T08:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "testing",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -26,17 +27,17 @@
                 "start": "2024-02-23T07:00:00Z",
                 "end": "2024-02-23T08:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Bahrain Grand Prix",
         "countryName": "Bahrain",
-        "countryKey": null,
+        "location": "Sakhir",
         "roundNumber": 1,
         "start": "2024-02-29T11:30:00Z",
         "end": "2024-03-02T16:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -68,17 +69,17 @@
                 "start": "2024-03-02T15:00:00Z",
                 "end": "2024-03-02T16:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Saudi Arabian Grand Prix",
         "countryName": "SaudiArabia",
-        "countryKey": null,
+        "location": "Jeddah",
         "roundNumber": 2,
         "start": "2024-03-07T13:30:00Z",
         "end": "2024-03-09T18:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -110,17 +111,17 @@
                 "start": "2024-03-09T17:00:00Z",
                 "end": "2024-03-09T18:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Australian Grand Prix",
         "countryName": "Australia",
-        "countryKey": null,
+        "location": "Melbourne",
         "roundNumber": 3,
         "start": "2024-03-22T01:30:00Z",
         "end": "2024-03-24T05:00:00Z",
         "gmt_offset": "+11:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -152,17 +153,17 @@
                 "start": "2024-03-24T04:00:00Z",
                 "end": "2024-03-24T05:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Japanese Grand Prix",
         "countryName": "Japan",
-        "countryKey": null,
+        "location": "Suzuka",
         "roundNumber": 4,
         "start": "2024-04-05T02:30:00Z",
         "end": "2024-04-07T06:00:00Z",
         "gmt_offset": "+09:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -194,17 +195,17 @@
                 "start": "2024-04-07T05:00:00Z",
                 "end": "2024-04-07T06:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Chinese Grand Prix",
         "countryName": "China",
-        "countryKey": null,
+        "location": "Shanghai",
         "roundNumber": 5,
         "start": "2024-04-19T03:30:00Z",
         "end": "2024-04-21T08:00:00Z",
         "gmt_offset": "+08:00",
+        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -236,17 +237,17 @@
                 "start": "2024-04-21T07:00:00Z",
                 "end": "2024-04-21T08:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Miami Grand Prix",
         "countryName": "UnitedStates",
-        "countryKey": null,
+        "location": "Miami",
         "roundNumber": 6,
         "start": "2024-05-03T16:30:00Z",
         "end": "2024-05-05T21:00:00Z",
         "gmt_offset": "-04:00",
+        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -278,17 +279,17 @@
                 "start": "2024-05-05T20:00:00Z",
                 "end": "2024-05-05T21:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Emilia Romagna Grand Prix",
         "countryName": "Italy",
-        "countryKey": null,
+        "location": "Imola",
         "roundNumber": 7,
         "start": "2024-05-17T11:30:00Z",
         "end": "2024-05-19T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -320,17 +321,17 @@
                 "start": "2024-05-19T13:00:00Z",
                 "end": "2024-05-19T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Monaco Grand Prix",
         "countryName": "Monaco",
-        "countryKey": null,
+        "location": "Monaco",
         "roundNumber": 8,
         "start": "2024-05-24T11:30:00Z",
         "end": "2024-05-26T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -362,17 +363,17 @@
                 "start": "2024-05-26T13:00:00Z",
                 "end": "2024-05-26T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Canadian Grand Prix",
         "countryName": "Canada",
-        "countryKey": null,
+        "location": "Montr\u00e9al",
         "roundNumber": 9,
         "start": "2024-06-07T17:30:00Z",
         "end": "2024-06-09T19:00:00Z",
         "gmt_offset": "-04:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -404,17 +405,17 @@
                 "start": "2024-06-09T18:00:00Z",
                 "end": "2024-06-09T19:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Spanish Grand Prix",
         "countryName": "Spain",
-        "countryKey": null,
+        "location": "Barcelona",
         "roundNumber": 10,
         "start": "2024-06-21T11:30:00Z",
         "end": "2024-06-23T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -446,17 +447,17 @@
                 "start": "2024-06-23T13:00:00Z",
                 "end": "2024-06-23T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Austrian Grand Prix",
         "countryName": "Austria",
-        "countryKey": null,
+        "location": "Spielberg",
         "roundNumber": 11,
         "start": "2024-06-28T10:30:00Z",
         "end": "2024-06-30T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -488,17 +489,17 @@
                 "start": "2024-06-30T13:00:00Z",
                 "end": "2024-06-30T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "British Grand Prix",
         "countryName": "UnitedKingdom",
-        "countryKey": null,
+        "location": "Silverstone",
         "roundNumber": 12,
         "start": "2024-07-05T11:30:00Z",
         "end": "2024-07-07T15:00:00Z",
         "gmt_offset": "+01:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -530,17 +531,17 @@
                 "start": "2024-07-07T14:00:00Z",
                 "end": "2024-07-07T15:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Hungarian Grand Prix",
         "countryName": "Hungary",
-        "countryKey": null,
+        "location": "Budapest",
         "roundNumber": 13,
         "start": "2024-07-19T11:30:00Z",
         "end": "2024-07-21T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -572,17 +573,17 @@
                 "start": "2024-07-21T13:00:00Z",
                 "end": "2024-07-21T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Belgian Grand Prix",
         "countryName": "Belgium",
-        "countryKey": null,
+        "location": "Spa-Francorchamps",
         "roundNumber": 14,
         "start": "2024-07-26T11:30:00Z",
         "end": "2024-07-28T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -614,17 +615,17 @@
                 "start": "2024-07-28T13:00:00Z",
                 "end": "2024-07-28T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Dutch Grand Prix",
         "countryName": "Netherlands",
-        "countryKey": null,
+        "location": "Zandvoort",
         "roundNumber": 15,
         "start": "2024-08-23T10:30:00Z",
         "end": "2024-08-25T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -656,17 +657,17 @@
                 "start": "2024-08-25T13:00:00Z",
                 "end": "2024-08-25T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Italian Grand Prix",
         "countryName": "Italy",
-        "countryKey": null,
+        "location": "Monza",
         "roundNumber": 16,
         "start": "2024-08-30T11:30:00Z",
         "end": "2024-09-01T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -698,17 +699,17 @@
                 "start": "2024-09-01T13:00:00Z",
                 "end": "2024-09-01T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Azerbaijan Grand Prix",
         "countryName": "Azerbaijan",
-        "countryKey": null,
+        "location": "Baku",
         "roundNumber": 17,
         "start": "2024-09-13T09:30:00Z",
         "end": "2024-09-15T12:00:00Z",
         "gmt_offset": "+04:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -740,17 +741,17 @@
                 "start": "2024-09-15T11:00:00Z",
                 "end": "2024-09-15T12:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Singapore Grand Prix",
         "countryName": "Singapore",
-        "countryKey": null,
+        "location": "Marina Bay",
         "roundNumber": 18,
         "start": "2024-09-20T09:30:00Z",
         "end": "2024-09-22T13:00:00Z",
         "gmt_offset": "+08:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -782,17 +783,17 @@
                 "start": "2024-09-22T12:00:00Z",
                 "end": "2024-09-22T13:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "United States Grand Prix",
         "countryName": "UnitedStates",
-        "countryKey": null,
+        "location": "Austin",
         "roundNumber": 19,
         "start": "2024-10-18T17:30:00Z",
         "end": "2024-10-20T20:00:00Z",
         "gmt_offset": "-05:00",
+        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -824,17 +825,17 @@
                 "start": "2024-10-20T19:00:00Z",
                 "end": "2024-10-20T20:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Mexico City Grand Prix",
         "countryName": "Mexico",
-        "countryKey": null,
+        "location": "Mexico City",
         "roundNumber": 20,
         "start": "2024-10-25T18:30:00Z",
         "end": "2024-10-27T21:00:00Z",
         "gmt_offset": "-06:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -866,17 +867,17 @@
                 "start": "2024-10-27T20:00:00Z",
                 "end": "2024-10-27T21:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "S\u00e3o Paulo Grand Prix",
         "countryName": "Brazil",
-        "countryKey": null,
+        "location": "S\u00e3o Paulo",
         "roundNumber": 21,
         "start": "2024-11-01T14:30:00Z",
         "end": "2024-11-03T16:30:00Z",
         "gmt_offset": "-03:00",
+        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -908,17 +909,17 @@
                 "start": "2024-11-03T15:30:00Z",
                 "end": "2024-11-03T16:30:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Las Vegas Grand Prix",
         "countryName": "UnitedStates",
-        "countryKey": null,
+        "location": "Las Vegas",
         "roundNumber": 22,
         "start": "2024-11-22T02:30:00Z",
         "end": "2024-11-24T07:00:00Z",
         "gmt_offset": "-08:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -950,17 +951,17 @@
                 "start": "2024-11-24T06:00:00Z",
                 "end": "2024-11-24T07:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Qatar Grand Prix",
         "countryName": "Qatar",
-        "countryKey": null,
+        "location": "Lusail",
         "roundNumber": 23,
         "start": "2024-11-29T13:30:00Z",
         "end": "2024-12-01T17:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "sprint_qualifying",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -992,17 +993,17 @@
                 "start": "2024-12-01T16:00:00Z",
                 "end": "2024-12-01T17:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Abu Dhabi Grand Prix",
         "countryName": "UnitedArabEmirates",
-        "countryKey": null,
+        "location": "Yas Island",
         "roundNumber": 24,
         "start": "2024-12-06T09:30:00Z",
         "end": "2024-12-08T14:00:00Z",
         "gmt_offset": "+04:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -1034,7 +1035,6 @@
                 "start": "2024-12-08T13:00:00Z",
                 "end": "2024-12-08T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     }
 ]

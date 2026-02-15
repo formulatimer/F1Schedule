@@ -2,11 +2,12 @@
     {
         "name": "Pre-Season Test",
         "countryName": "Bahrain",
-        "countryKey": null,
-        "roundNumber": 0,
+        "location": "Bahrain",
+        "roundNumber": 1,
         "start": "2021-03-12T07:00:00Z",
         "end": "2021-03-14T08:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "testing",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -26,17 +27,17 @@
                 "start": "2021-03-14T07:00:00Z",
                 "end": "2021-03-14T08:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Bahrain Grand Prix",
         "countryName": "Bahrain",
-        "countryKey": null,
+        "location": "Sakhir",
         "roundNumber": 1,
         "start": "2021-03-26T11:30:00Z",
         "end": "2021-03-28T16:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -68,17 +69,17 @@
                 "start": "2021-03-28T15:00:00Z",
                 "end": "2021-03-28T16:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Emilia Romagna Grand Prix",
         "countryName": "Italy",
-        "countryKey": null,
+        "location": "Imola",
         "roundNumber": 2,
         "start": "2021-04-16T09:00:00Z",
         "end": "2021-04-18T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -110,17 +111,17 @@
                 "start": "2021-04-18T13:00:00Z",
                 "end": "2021-04-18T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Portuguese Grand Prix",
         "countryName": "Portugal",
-        "countryKey": null,
+        "location": "Portim\u00e3o",
         "roundNumber": 3,
         "start": "2021-04-30T10:30:00Z",
         "end": "2021-05-02T15:00:00Z",
         "gmt_offset": "+01:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -152,17 +153,17 @@
                 "start": "2021-05-02T14:00:00Z",
                 "end": "2021-05-02T15:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Spanish Grand Prix",
         "countryName": "Spain",
-        "countryKey": null,
+        "location": "Barcelona",
         "roundNumber": 4,
         "start": "2021-05-07T09:30:00Z",
         "end": "2021-05-09T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -194,17 +195,17 @@
                 "start": "2021-05-09T13:00:00Z",
                 "end": "2021-05-09T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Monaco Grand Prix",
         "countryName": "Monaco",
-        "countryKey": null,
+        "location": "Monte Carlo",
         "roundNumber": 5,
         "start": "2021-05-20T09:30:00Z",
         "end": "2021-05-23T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -236,17 +237,17 @@
                 "start": "2021-05-23T13:00:00Z",
                 "end": "2021-05-23T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Azerbaijan Grand Prix",
         "countryName": "Azerbaijan",
-        "countryKey": null,
+        "location": "Baku",
         "roundNumber": 6,
         "start": "2021-06-04T08:30:00Z",
         "end": "2021-06-06T13:00:00Z",
         "gmt_offset": "+04:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -278,17 +279,17 @@
                 "start": "2021-06-06T12:00:00Z",
                 "end": "2021-06-06T13:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "French Grand Prix",
         "countryName": "France",
-        "countryKey": null,
+        "location": "Le Castellet",
         "roundNumber": 7,
         "start": "2021-06-18T09:30:00Z",
         "end": "2021-06-20T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -320,17 +321,17 @@
                 "start": "2021-06-20T13:00:00Z",
                 "end": "2021-06-20T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Styrian Grand Prix",
         "countryName": "Austria",
-        "countryKey": null,
+        "location": "Spielberg",
         "roundNumber": 8,
         "start": "2021-06-25T09:30:00Z",
         "end": "2021-06-27T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -362,17 +363,17 @@
                 "start": "2021-06-27T13:00:00Z",
                 "end": "2021-06-27T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Austrian Grand Prix",
         "countryName": "Austria",
-        "countryKey": null,
+        "location": "Spielberg",
         "roundNumber": 9,
         "start": "2021-07-02T09:30:00Z",
         "end": "2021-07-04T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -404,17 +405,17 @@
                 "start": "2021-07-04T13:00:00Z",
                 "end": "2021-07-04T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "British Grand Prix",
         "countryName": "GreatBritain",
-        "countryKey": null,
+        "location": "Silverstone",
         "roundNumber": 10,
         "start": "2021-07-16T13:30:00Z",
         "end": "2021-07-18T15:00:00Z",
         "gmt_offset": "+01:00",
+        "eventFormat": "sprint",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -446,17 +447,17 @@
                 "start": "2021-07-18T14:00:00Z",
                 "end": "2021-07-18T15:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Hungarian Grand Prix",
         "countryName": "Hungary",
-        "countryKey": null,
+        "location": "Budapest",
         "roundNumber": 11,
         "start": "2021-07-30T09:30:00Z",
         "end": "2021-08-01T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -488,17 +489,17 @@
                 "start": "2021-08-01T13:00:00Z",
                 "end": "2021-08-01T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Belgian Grand Prix",
         "countryName": "Belgium",
-        "countryKey": null,
+        "location": "Spa-Francorchamps",
         "roundNumber": 12,
         "start": "2021-08-27T09:30:00Z",
         "end": "2021-08-29T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -530,17 +531,17 @@
                 "start": "2021-08-29T13:00:00Z",
                 "end": "2021-08-29T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Dutch Grand Prix",
         "countryName": "Netherlands",
-        "countryKey": null,
+        "location": "Zandvoort",
         "roundNumber": 13,
         "start": "2021-09-03T09:30:00Z",
         "end": "2021-09-05T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -572,17 +573,17 @@
                 "start": "2021-09-05T13:00:00Z",
                 "end": "2021-09-05T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Italian Grand Prix",
         "countryName": "Italy",
-        "countryKey": null,
+        "location": "Monza",
         "roundNumber": 14,
         "start": "2021-09-10T12:30:00Z",
         "end": "2021-09-12T14:00:00Z",
         "gmt_offset": "+02:00",
+        "eventFormat": "sprint",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -614,17 +615,17 @@
                 "start": "2021-09-12T13:00:00Z",
                 "end": "2021-09-12T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Russian Grand Prix",
         "countryName": "Russia",
-        "countryKey": null,
+        "location": "Sochi",
         "roundNumber": 15,
         "start": "2021-09-24T08:30:00Z",
         "end": "2021-09-26T13:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -656,17 +657,17 @@
                 "start": "2021-09-26T12:00:00Z",
                 "end": "2021-09-26T13:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Turkish Grand Prix",
         "countryName": "Turkey",
-        "countryKey": null,
+        "location": "Istanbul",
         "roundNumber": 16,
         "start": "2021-10-08T08:30:00Z",
         "end": "2021-10-10T13:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -698,17 +699,17 @@
                 "start": "2021-10-10T12:00:00Z",
                 "end": "2021-10-10T13:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "United States Grand Prix",
         "countryName": "UnitedStates",
-        "countryKey": null,
+        "location": "Austin",
         "roundNumber": 17,
         "start": "2021-10-22T16:30:00Z",
         "end": "2021-10-24T20:00:00Z",
         "gmt_offset": "-05:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -740,17 +741,17 @@
                 "start": "2021-10-24T19:00:00Z",
                 "end": "2021-10-24T20:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Mexico City Grand Prix",
         "countryName": "Mexico",
-        "countryKey": null,
+        "location": "Mexico City",
         "roundNumber": 18,
         "start": "2021-11-05T17:30:00Z",
         "end": "2021-11-07T20:00:00Z",
         "gmt_offset": "-06:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -782,17 +783,17 @@
                 "start": "2021-11-07T19:00:00Z",
                 "end": "2021-11-07T20:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "S\u00e3o Paulo Grand Prix",
         "countryName": "Brazil",
-        "countryKey": null,
+        "location": "S\u00e3o Paulo",
         "roundNumber": 19,
         "start": "2021-11-12T15:30:00Z",
         "end": "2021-11-14T18:00:00Z",
         "gmt_offset": "-03:00",
+        "eventFormat": "sprint",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -824,17 +825,17 @@
                 "start": "2021-11-14T17:00:00Z",
                 "end": "2021-11-14T18:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Qatar Grand Prix",
         "countryName": "Qatar",
-        "countryKey": null,
+        "location": "Lusail",
         "roundNumber": 20,
         "start": "2021-11-19T10:30:00Z",
         "end": "2021-11-21T15:00:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -866,17 +867,17 @@
                 "start": "2021-11-21T14:00:00Z",
                 "end": "2021-11-21T15:00:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Saudi Arabian Grand Prix",
         "countryName": "SaudiArabia",
-        "countryKey": null,
+        "location": "Jeddah",
         "roundNumber": 21,
         "start": "2021-12-03T13:30:00Z",
         "end": "2021-12-05T18:30:00Z",
         "gmt_offset": "+03:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -908,17 +909,17 @@
                 "start": "2021-12-05T17:30:00Z",
                 "end": "2021-12-05T18:30:00Z"
             }
-        ],
-        "over": false
+        ]
     },
     {
         "name": "Abu Dhabi Grand Prix",
         "countryName": "AbuDhabi",
-        "countryKey": null,
+        "location": "Yas Island",
         "roundNumber": 22,
         "start": "2021-12-10T09:30:00Z",
         "end": "2021-12-12T14:00:00Z",
         "gmt_offset": "+04:00",
+        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -950,7 +951,6 @@
                 "start": "2021-12-12T13:00:00Z",
                 "end": "2021-12-12T14:00:00Z"
             }
-        ],
-        "over": false
+        ]
     }
 ]
