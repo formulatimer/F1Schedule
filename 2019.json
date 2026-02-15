@@ -2,12 +2,11 @@
     {
         "name": "Australian Grand Prix",
         "countryName": "Australia",
-        "location": "Melbourne",
+        "countryKey": null,
         "roundNumber": 1,
         "start": "2019-03-15T01:00:00Z",
         "end": "2019-03-17T06:10:00Z",
         "gmt_offset": "+11:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -39,17 +38,17 @@
                 "start": "2019-03-17T05:10:00Z",
                 "end": "2019-03-17T06:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Bahrain Grand Prix",
         "countryName": "Bahrain",
-        "location": "Sakhir",
+        "countryKey": null,
         "roundNumber": 2,
         "start": "2019-03-29T11:00:00Z",
         "end": "2019-03-31T16:10:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -81,17 +80,17 @@
                 "start": "2019-03-31T15:10:00Z",
                 "end": "2019-03-31T16:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Chinese Grand Prix",
         "countryName": "China",
-        "location": "Shanghai",
+        "countryKey": null,
         "roundNumber": 3,
         "start": "2019-04-12T02:00:00Z",
         "end": "2019-04-14T07:10:00Z",
         "gmt_offset": "+08:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -123,17 +122,17 @@
                 "start": "2019-04-14T06:10:00Z",
                 "end": "2019-04-14T07:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Azerbaijan Grand Prix",
         "countryName": "Azerbaijan",
-        "location": "Baku",
+        "countryKey": null,
         "roundNumber": 4,
         "start": "2019-04-26T09:00:00Z",
         "end": "2019-04-28T13:10:00Z",
         "gmt_offset": "+04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -165,17 +164,17 @@
                 "start": "2019-04-28T12:10:00Z",
                 "end": "2019-04-28T13:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Spanish Grand Prix",
         "countryName": "Spain",
-        "location": "Barcelona",
+        "countryKey": null,
         "roundNumber": 5,
         "start": "2019-05-10T09:00:00Z",
         "end": "2019-05-12T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -207,17 +206,17 @@
                 "start": "2019-05-12T13:10:00Z",
                 "end": "2019-05-12T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Monaco Grand Prix",
         "countryName": "Monaco",
-        "location": "Monte Carlo",
+        "countryKey": null,
         "roundNumber": 6,
         "start": "2019-05-23T09:00:00Z",
         "end": "2019-05-26T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -249,17 +248,17 @@
                 "start": "2019-05-26T13:10:00Z",
                 "end": "2019-05-26T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Canadian Grand Prix",
         "countryName": "Canada",
-        "location": "Montr\u00e9al",
+        "countryKey": null,
         "roundNumber": 7,
         "start": "2019-06-07T14:00:00Z",
         "end": "2019-06-09T19:10:00Z",
         "gmt_offset": "-04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -291,17 +290,17 @@
                 "start": "2019-06-09T18:10:00Z",
                 "end": "2019-06-09T19:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "French Grand Prix",
         "countryName": "France",
-        "location": "Le Castellet",
+        "countryKey": null,
         "roundNumber": 8,
         "start": "2019-06-21T09:00:00Z",
         "end": "2019-06-23T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -333,17 +332,17 @@
                 "start": "2019-06-23T13:10:00Z",
                 "end": "2019-06-23T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Austrian Grand Prix",
         "countryName": "Austria",
-        "location": "Spielberg",
+        "countryKey": null,
         "roundNumber": 9,
         "start": "2019-06-28T09:00:00Z",
         "end": "2019-06-30T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -375,17 +374,17 @@
                 "start": "2019-06-30T13:10:00Z",
                 "end": "2019-06-30T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "British Grand Prix",
         "countryName": "GreatBritain",
-        "location": "Silverstone",
+        "countryKey": null,
         "roundNumber": 10,
         "start": "2019-07-12T09:00:00Z",
         "end": "2019-07-14T14:10:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -417,17 +416,17 @@
                 "start": "2019-07-14T13:10:00Z",
                 "end": "2019-07-14T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "German Grand Prix",
         "countryName": "Germany",
-        "location": "Hockenheim",
+        "countryKey": null,
         "roundNumber": 11,
         "start": "2019-07-26T09:00:00Z",
         "end": "2019-07-28T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -459,17 +458,17 @@
                 "start": "2019-07-28T13:10:00Z",
                 "end": "2019-07-28T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Hungarian Grand Prix",
         "countryName": "Hungary",
-        "location": "Budapest",
+        "countryKey": null,
         "roundNumber": 12,
         "start": "2019-08-02T09:00:00Z",
         "end": "2019-08-04T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -501,17 +500,17 @@
                 "start": "2019-08-04T13:10:00Z",
                 "end": "2019-08-04T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Belgian Grand Prix",
         "countryName": "Belgium",
-        "location": "Spa-Francorchamps",
+        "countryKey": null,
         "roundNumber": 13,
         "start": "2019-08-30T09:00:00Z",
         "end": "2019-09-01T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -543,17 +542,17 @@
                 "start": "2019-09-01T13:10:00Z",
                 "end": "2019-09-01T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Italian Grand Prix",
         "countryName": "Italy",
-        "location": "Monza",
+        "countryKey": null,
         "roundNumber": 14,
         "start": "2019-09-06T09:00:00Z",
         "end": "2019-09-08T14:10:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -585,17 +584,17 @@
                 "start": "2019-09-08T13:10:00Z",
                 "end": "2019-09-08T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Singapore Grand Prix",
         "countryName": "Singapore",
-        "location": "Singapore",
+        "countryKey": null,
         "roundNumber": 15,
         "start": "2019-09-20T08:30:00Z",
         "end": "2019-09-22T13:10:00Z",
         "gmt_offset": "+08:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -627,17 +626,17 @@
                 "start": "2019-09-22T12:10:00Z",
                 "end": "2019-09-22T13:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Russian Grand Prix",
         "countryName": "Russia",
-        "location": "Sochi",
+        "countryKey": null,
         "roundNumber": 16,
         "start": "2019-09-27T08:00:00Z",
         "end": "2019-09-29T12:10:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -669,17 +668,17 @@
                 "start": "2019-09-29T11:10:00Z",
                 "end": "2019-09-29T12:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Japanese Grand Prix",
         "countryName": "Japan",
-        "location": "Suzuka",
+        "countryKey": null,
         "roundNumber": 17,
         "start": "2019-10-11T01:00:00Z",
         "end": "2019-10-13T06:10:00Z",
         "gmt_offset": "+09:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -711,17 +710,17 @@
                 "start": "2019-10-13T05:10:00Z",
                 "end": "2019-10-13T06:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Mexican Grand Prix",
         "countryName": "Mexico",
-        "location": "Mexico City",
+        "countryKey": null,
         "roundNumber": 18,
         "start": "2019-10-25T16:00:00Z",
         "end": "2019-10-27T20:10:00Z",
         "gmt_offset": "-06:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -753,17 +752,17 @@
                 "start": "2019-10-27T19:10:00Z",
                 "end": "2019-10-27T20:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "United States Grand Prix",
         "countryName": "UnitedStates",
-        "location": "Austin",
+        "countryKey": null,
         "roundNumber": 19,
         "start": "2019-11-01T17:00:00Z",
         "end": "2019-11-03T20:10:00Z",
         "gmt_offset": "-06:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -795,17 +794,17 @@
                 "start": "2019-11-03T19:10:00Z",
                 "end": "2019-11-03T20:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Brazilian Grand Prix",
         "countryName": "Brazil",
-        "location": "S\u00e3o Paulo",
+        "countryKey": null,
         "roundNumber": 20,
         "start": "2019-11-15T14:00:00Z",
         "end": "2019-11-17T18:10:00Z",
         "gmt_offset": "-03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -837,17 +836,17 @@
                 "start": "2019-11-17T17:10:00Z",
                 "end": "2019-11-17T18:10:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Abu Dhabi Grand Prix",
         "countryName": "AbuDhabi",
-        "location": "Yas Island",
+        "countryKey": null,
         "roundNumber": 21,
         "start": "2019-11-29T09:00:00Z",
         "end": "2019-12-01T14:10:00Z",
         "gmt_offset": "+04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -879,6 +878,7 @@
                 "start": "2019-12-01T13:10:00Z",
                 "end": "2019-12-01T14:10:00Z"
             }
-        ]
+        ],
+        "over": false
     }
 ]

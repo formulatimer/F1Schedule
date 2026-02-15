@@ -2,12 +2,11 @@
     {
         "name": "Pre-Season Track Session",
         "countryName": "Spain",
-        "location": "Spain",
-        "roundNumber": 1,
+        "countryKey": null,
+        "roundNumber": 0,
         "start": "2022-02-23T08:00:00Z",
         "end": "2022-02-25T09:00:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "testing",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -27,17 +26,17 @@
                 "start": "2022-02-25T08:00:00Z",
                 "end": "2022-02-25T09:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Pre-Season Test",
         "countryName": "Bahrain",
-        "location": "Bahrain",
-        "roundNumber": 2,
+        "countryKey": null,
+        "roundNumber": 0,
         "start": "2022-03-10T07:00:00Z",
         "end": "2022-03-12T08:00:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "testing",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -57,17 +56,17 @@
                 "start": "2022-03-12T07:00:00Z",
                 "end": "2022-03-12T08:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Bahrain Grand Prix",
         "countryName": "Bahrain",
-        "location": "Sakhir",
+        "countryKey": null,
         "roundNumber": 1,
         "start": "2022-03-18T12:00:00Z",
         "end": "2022-03-20T16:00:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -99,17 +98,17 @@
                 "start": "2022-03-20T15:00:00Z",
                 "end": "2022-03-20T16:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Saudi Arabian Grand Prix",
         "countryName": "SaudiArabia",
-        "location": "Jeddah",
+        "countryKey": null,
         "roundNumber": 2,
         "start": "2022-03-25T14:00:00Z",
         "end": "2022-03-27T18:00:00Z",
         "gmt_offset": "+03:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -141,17 +140,17 @@
                 "start": "2022-03-27T17:00:00Z",
                 "end": "2022-03-27T18:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Australian Grand Prix",
         "countryName": "Australia",
-        "location": "Melbourne",
+        "countryKey": null,
         "roundNumber": 3,
         "start": "2022-04-08T03:00:00Z",
         "end": "2022-04-10T06:00:00Z",
         "gmt_offset": "+10:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -183,17 +182,17 @@
                 "start": "2022-04-10T05:00:00Z",
                 "end": "2022-04-10T06:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Emilia Romagna Grand Prix",
         "countryName": "Italy",
-        "location": "Imola",
+        "countryKey": null,
         "roundNumber": 4,
         "start": "2022-04-22T11:30:00Z",
         "end": "2022-04-24T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "sprint",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -225,17 +224,17 @@
                 "start": "2022-04-24T13:00:00Z",
                 "end": "2022-04-24T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Miami Grand Prix",
         "countryName": "UnitedStates",
-        "location": "Miami",
+        "countryKey": null,
         "roundNumber": 5,
         "start": "2022-05-06T18:30:00Z",
         "end": "2022-05-08T20:30:00Z",
         "gmt_offset": "-04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -267,17 +266,17 @@
                 "start": "2022-05-08T19:30:00Z",
                 "end": "2022-05-08T20:30:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Spanish Grand Prix",
         "countryName": "Spain",
-        "location": "Barcelona",
+        "countryKey": null,
         "roundNumber": 6,
         "start": "2022-05-20T12:00:00Z",
         "end": "2022-05-22T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -309,17 +308,17 @@
                 "start": "2022-05-22T13:00:00Z",
                 "end": "2022-05-22T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Monaco Grand Prix",
         "countryName": "Monaco",
-        "location": "Monaco",
+        "countryKey": null,
         "roundNumber": 7,
         "start": "2022-05-27T12:00:00Z",
         "end": "2022-05-29T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -351,17 +350,17 @@
                 "start": "2022-05-29T13:00:00Z",
                 "end": "2022-05-29T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Azerbaijan Grand Prix",
         "countryName": "Azerbaijan",
-        "location": "Baku",
+        "countryKey": null,
         "roundNumber": 8,
         "start": "2022-06-10T11:00:00Z",
         "end": "2022-06-12T12:00:00Z",
         "gmt_offset": "+04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -393,17 +392,17 @@
                 "start": "2022-06-12T11:00:00Z",
                 "end": "2022-06-12T12:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Canadian Grand Prix",
         "countryName": "Canada",
-        "location": "Montr\u00e9al",
+        "countryKey": null,
         "roundNumber": 9,
         "start": "2022-06-17T18:00:00Z",
         "end": "2022-06-19T19:00:00Z",
         "gmt_offset": "-04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -435,17 +434,17 @@
                 "start": "2022-06-19T18:00:00Z",
                 "end": "2022-06-19T19:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "British Grand Prix",
         "countryName": "GreatBritain",
-        "location": "Silverstone",
+        "countryKey": null,
         "roundNumber": 10,
         "start": "2022-07-01T12:00:00Z",
         "end": "2022-07-03T15:00:00Z",
         "gmt_offset": "+01:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -477,17 +476,17 @@
                 "start": "2022-07-03T14:00:00Z",
                 "end": "2022-07-03T15:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Austrian Grand Prix",
         "countryName": "Austria",
-        "location": "Spielberg",
+        "countryKey": null,
         "roundNumber": 11,
         "start": "2022-07-08T11:30:00Z",
         "end": "2022-07-10T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "sprint",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -519,17 +518,17 @@
                 "start": "2022-07-10T13:00:00Z",
                 "end": "2022-07-10T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "French Grand Prix",
         "countryName": "France",
-        "location": "Le Castellet",
+        "countryKey": null,
         "roundNumber": 12,
         "start": "2022-07-22T12:00:00Z",
         "end": "2022-07-24T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -561,17 +560,17 @@
                 "start": "2022-07-24T13:00:00Z",
                 "end": "2022-07-24T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Hungarian Grand Prix",
         "countryName": "Hungary",
-        "location": "Budapest",
+        "countryKey": null,
         "roundNumber": 13,
         "start": "2022-07-29T12:00:00Z",
         "end": "2022-07-31T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -603,17 +602,17 @@
                 "start": "2022-07-31T13:00:00Z",
                 "end": "2022-07-31T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Belgian Grand Prix",
         "countryName": "Belgium",
-        "location": "Spa-Francorchamps",
+        "countryKey": null,
         "roundNumber": 14,
         "start": "2022-08-26T12:00:00Z",
         "end": "2022-08-28T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -645,17 +644,17 @@
                 "start": "2022-08-28T13:00:00Z",
                 "end": "2022-08-28T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Dutch Grand Prix",
         "countryName": "Netherlands",
-        "location": "Zandvoort",
+        "countryKey": null,
         "roundNumber": 15,
         "start": "2022-09-02T10:30:00Z",
         "end": "2022-09-04T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -687,17 +686,17 @@
                 "start": "2022-09-04T13:00:00Z",
                 "end": "2022-09-04T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Italian Grand Prix",
         "countryName": "Italy",
-        "location": "Monza",
+        "countryKey": null,
         "roundNumber": 16,
         "start": "2022-09-09T12:00:00Z",
         "end": "2022-09-11T14:00:00Z",
         "gmt_offset": "+02:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -729,17 +728,17 @@
                 "start": "2022-09-11T13:00:00Z",
                 "end": "2022-09-11T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Singapore Grand Prix",
         "countryName": "Singapore",
-        "location": "Marina Bay",
+        "countryKey": null,
         "roundNumber": 17,
         "start": "2022-09-30T10:00:00Z",
         "end": "2022-10-02T13:00:00Z",
         "gmt_offset": "+08:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -771,17 +770,17 @@
                 "start": "2022-10-02T12:00:00Z",
                 "end": "2022-10-02T13:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Japanese Grand Prix",
         "countryName": "Japan",
-        "location": "Suzuka",
+        "countryKey": null,
         "roundNumber": 18,
         "start": "2022-10-07T03:00:00Z",
         "end": "2022-10-09T06:00:00Z",
         "gmt_offset": "+09:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -813,17 +812,17 @@
                 "start": "2022-10-09T05:00:00Z",
                 "end": "2022-10-09T06:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "United States Grand Prix",
         "countryName": "UnitedStates",
-        "location": "Austin",
+        "countryKey": null,
         "roundNumber": 19,
         "start": "2022-10-21T19:00:00Z",
         "end": "2022-10-23T20:00:00Z",
         "gmt_offset": "-05:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -855,17 +854,17 @@
                 "start": "2022-10-23T19:00:00Z",
                 "end": "2022-10-23T20:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Mexico City Grand Prix",
         "countryName": "Mexico",
-        "location": "Mexico City",
+        "countryKey": null,
         "roundNumber": 20,
         "start": "2022-10-28T19:00:00Z",
         "end": "2022-10-30T21:00:00Z",
         "gmt_offset": "-06:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -897,17 +896,17 @@
                 "start": "2022-10-30T20:00:00Z",
                 "end": "2022-10-30T21:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "S\u00e3o Paulo Grand Prix",
         "countryName": "Brazil",
-        "location": "S\u00e3o Paulo",
+        "countryKey": null,
         "roundNumber": 21,
         "start": "2022-11-11T15:30:00Z",
         "end": "2022-11-13T19:00:00Z",
         "gmt_offset": "-03:00",
-        "eventFormat": "sprint",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -939,17 +938,17 @@
                 "start": "2022-11-13T18:00:00Z",
                 "end": "2022-11-13T19:00:00Z"
             }
-        ]
+        ],
+        "over": false
     },
     {
         "name": "Abu Dhabi Grand Prix",
         "countryName": "AbuDhabi",
-        "location": "Yas Island",
+        "countryKey": null,
         "roundNumber": 22,
         "start": "2022-11-18T10:00:00Z",
         "end": "2022-11-20T14:00:00Z",
         "gmt_offset": "+04:00",
-        "eventFormat": "conventional",
         "sessions": [
             {
                 "sessionNumber": "1",
@@ -981,6 +980,7 @@
                 "start": "2022-11-20T13:00:00Z",
                 "end": "2022-11-20T14:00:00Z"
             }
-        ]
+        ],
+        "over": false
     }
 ]
