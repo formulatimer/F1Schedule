@@ -46,21 +46,29 @@ def transform_schedule_data(raw_data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     transformed_data = []
     round_count = len(raw_data.get("round_number", {}))
+    testing_count = 0
     
     for i in range(round_count):
         str_i = str(i)
         gmt_offset = parse_gmt_offset(raw_data["gmt_offset"][str_i])
+        event_format = raw_data.get("event_format", {}).get(str_i, "race")
+        round_number = raw_data["round_number"][str_i]
+        
+        # For testing events with round number 0, assign sequential testing numbers
+        if event_format == "testing" and round_number == 0:
+            testing_count += 1
+            round_number = testing_count
         
         event = {
             "name": raw_data["event_name"][str_i],
             "countryName": raw_data["country"][str_i].replace(" ", ""),
-            "countryKey": None,
-            "roundNumber": raw_data["round_number"][str_i],
+            "location": raw_data.get("location", {}).get(str_i),
+            "roundNumber": round_number,
             "start": None,
             "end": None,
             "gmt_offset": raw_data["gmt_offset"][str_i],
-            "sessions": [],
-            "over": False
+            "eventFormat": event_format,
+            "sessions": []
         }
         
         # Process all sessions
