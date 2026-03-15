@@ -34,6 +34,12 @@ def convert_to_utc(local_time: str, gmt_offset: timedelta) -> str:
     return utc_dt.isoformat() + 'Z'
 
 
+def get_local_time(local_time: str) -> str:
+    """Get local time in ISO format without UTC indicator."""
+    local_dt = datetime.fromisoformat(local_time)
+    return local_dt.isoformat()
+
+
 def transform_schedule_data(raw_data: Dict[str, Any]) -> List[Dict[str, Any]]:
     """
     Transform F1 schedule data from raw format to standardized format.
@@ -78,20 +84,26 @@ def transform_schedule_data(raw_data: Dict[str, Any]) -> List[Dict[str, Any]]:
             
             if session_name:
                 session_start_utc = convert_to_utc(session_date, gmt_offset)
+                session_start_local = get_local_time(session_date)
                 session_end_dt = datetime.fromisoformat(session_date) - gmt_offset
                 session_end_utc = (session_end_dt + timedelta(hours=SESSION_DURATION_HOURS)).isoformat() + 'Z'
+                session_end_local = (datetime.fromisoformat(session_date) + timedelta(hours=SESSION_DURATION_HOURS)).isoformat()
                 
                 event["sessions"].append({
                     "sessionNumber": str(session_num),
                     "kind": session_name,
                     "start": session_start_utc,
-                    "end": session_end_utc
+                    "end": session_end_utc,
+                    "start_local": session_start_local,
+                    "end_local": session_end_local
                 })
         
         # Only add events with sessions
         if event["sessions"]:
             event["start"] = min(s["start"] for s in event["sessions"])
             event["end"] = max(s["end"] for s in event["sessions"])
+            event["start_local"] = min(s["start_local"] for s in event["sessions"])
+            event["end_local"] = max(s["end_local"] for s in event["sessions"])
             transformed_data.append(event)
     
     return transformed_data
@@ -170,6 +182,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
