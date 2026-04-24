@@ -242,7 +242,7 @@
         "countryName": "UnitedStates",
         "location": "Miami Gardens",
         "roundNumber": 4,
-        "start": "2026-05-01T16:30:00Z",
+        "start": "2026-05-01T16:00:00Z",
         "end": "2026-05-03T21:00:00Z",
         "gmt_offset": "-04:00",
         "eventFormat": "sprint_qualifying",
@@ -250,10 +250,10 @@
             {
                 "sessionNumber": "1",
                 "kind": "Practice 1",
-                "start": "2026-05-01T16:30:00Z",
-                "end": "2026-05-01T17:30:00Z",
-                "start_local": "2026-05-01T12:30:00",
-                "end_local": "2026-05-01T13:30:00"
+                "start": "2026-05-01T16:00:00Z",
+                "end": "2026-05-01T17:00:00Z",
+                "start_local": "2026-05-01T12:00:00",
+                "end_local": "2026-05-01T13:00:00"
             },
             {
                 "sessionNumber": "2",
@@ -288,7 +288,7 @@
                 "end_local": "2026-05-03T17:00:00"
             }
         ],
-        "start_local": "2026-05-01T12:30:00",
+        "start_local": "2026-05-01T12:00:00",
         "end_local": "2026-05-03T17:00:00"
     },
     {
