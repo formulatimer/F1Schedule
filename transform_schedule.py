@@ -94,16 +94,16 @@ def transform_schedule_data(raw_data: Dict[str, Any]) -> List[Dict[str, Any]]:
                     "kind": session_name,
                     "start": session_start_utc,
                     "end": session_end_utc,
-                    "start_local": session_start_local,
-                    "end_local": session_end_local
+                    "startLocal": session_start_local,
+                    "endLocal": session_end_local
                 })
         
         # Only add events with sessions
         if event["sessions"]:
             event["start"] = min(s["start"] for s in event["sessions"])
             event["end"] = max(s["end"] for s in event["sessions"])
-            event["start_local"] = min(s["start_local"] for s in event["sessions"])
-            event["end_local"] = max(s["end_local"] for s in event["sessions"])
+            event["startLocal"] = min(s["startLocal"] for s in event["sessions"])
+            event["endLocal"] = max(s["endLocal"] for s in event["sessions"])
             transformed_data.append(event)
     
     return transformed_data
