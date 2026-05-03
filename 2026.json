@@ -243,7 +243,7 @@
         "location": "Miami Gardens",
         "roundNumber": 4,
         "start": "2026-05-01T16:00:00Z",
-        "end": "2026-05-03T21:00:00Z",
+        "end": "2026-05-03T18:00:00Z",
         "gmt_offset": "-04:00",
         "eventFormat": "sprint_qualifying",
         "sessions": [
@@ -282,14 +282,14 @@
             {
                 "sessionNumber": "5",
                 "kind": "Race",
-                "start": "2026-05-03T20:00:00Z",
-                "end": "2026-05-03T21:00:00Z",
-                "startLocal": "2026-05-03T16:00:00",
-                "endLocal": "2026-05-03T17:00:00"
+                "start": "2026-05-03T17:00:00Z",
+                "end": "2026-05-03T18:00:00Z",
+                "startLocal": "2026-05-03T13:00:00",
+                "endLocal": "2026-05-03T14:00:00"
             }
         ],
         "startLocal": "2026-05-01T12:00:00",
-        "endLocal": "2026-05-03T17:00:00"
+        "endLocal": "2026-05-03T14:00:00"
     },
     {
         "name": "Canadian Grand Prix",
