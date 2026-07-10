@@ -890,19 +890,11 @@
         "countryName": "Singapore",
         "location": "Marina Bay",
         "roundNumber": 16,
-        "start": "2026-10-09T08:30:00Z",
+        "start": "2026-10-09T12:30:00Z",
         "end": "2026-10-11T13:00:00Z",
         "gmt_offset": "+08:00",
         "eventFormat": "sprint_qualifying",
         "sessions": [
-            {
-                "sessionNumber": "1",
-                "kind": "Practice 1",
-                "start": "2026-10-09T08:30:00Z",
-                "end": "2026-10-09T09:30:00Z",
-                "startLocal": "2026-10-09T16:30:00",
-                "endLocal": "2026-10-09T17:30:00"
-            },
             {
                 "sessionNumber": "2",
                 "kind": "Sprint Qualifying",
@@ -936,7 +928,7 @@
                 "endLocal": "2026-10-11T21:00:00"
             }
         ],
-        "startLocal": "2026-10-09T16:30:00",
+        "startLocal": "2026-10-09T20:30:00",
         "endLocal": "2026-10-11T21:00:00"
     },
     {
