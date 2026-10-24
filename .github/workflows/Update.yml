@@ -21,9 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: astral-sh/setup-uv@v6
-        with:
-          enable-cache: true
+      - uses: astral-sh/setup-uv@v7
 
       - name: Run transformation script
         run: uv run --with requests --with gitpython python transform_schedule.py
@@ -32,7 +30,7 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add <output-file>.json
+          git add -A   # or: git add schedule.json
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
