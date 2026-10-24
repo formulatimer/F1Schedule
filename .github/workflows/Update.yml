@@ -2,52 +2,41 @@ name: Transform JSON
 
 on:
   schedule:
-    - cron: '0 */3 * * 5'
-    - cron: '0 */3 * * 6'
-    - cron: '0 */3 * * 0'
+    - cron: '0 */3 * * 0,5,6'
   push:
-    branches:
-      - main
+    branches: [main]
+  workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: transform-json
+  cancel-in-progress: false
+
 jobs:
   report:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.12.7'
+      - uses: actions/checkout@v5
 
-      - name: Check Python version and path
-        run: |
-          which python
-          python --version
-          
-      - name: Install dependencies
-        run: |
-          python -m venv .venv
-          source .venv/bin/activate
-          python -m pip install --upgrade pip
-          pip install requests gitpython
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
 
       - name: Run transformation script
-        run: |
-          source .venv/bin/activate
-          python transform_schedule.py
+        run: uv run --with requests --with gitpython python transform_schedule.py
 
       - name: Commit report
         run: |
-          git config --global user.name 'formulatimer'
-          git config --global user.email 'manpean@outlook.es'
-          git add .
-          if git diff-index --quiet HEAD --; then
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add <output-file>.json
+          if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git pull
             git commit -m "Update schedule"
+            git pull --rebase
             git push
           fi
